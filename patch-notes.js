@@ -9,9 +9,27 @@
 //   notes: [
 //     { tag: "New", text: "What changed, player-facing." },
 //   ],
+//   images: [                               // optional before/after screenshots (in this folder)
+//     { src: "feature_before.png", caption: "Before" },
+//     { src: "feature_after.png",  caption: "After"  },
+//   ],
 // }
 
 window.PATCH_NOTES = [
+  {
+    version: "0.7.0",
+    date: "2026-06-26",
+    title: "Home Screen Glow-Up",
+    notes: [
+      { tag: "New", text: "A brand-new home screen: a glossy gold PLAY button, a glowing title with a tagline, and a warm spotlight on your character." },
+      { tag: "New", text: "Cleaner top bar with coin and lives chips, a settings gear, and an icon-based bottom menu." },
+      { tag: "Improved", text: "The background reflects your current world, and small touches — a gentle button pulse, a bobbing title — make it feel alive." },
+    ],
+    images: [
+      { src: "homescreen.PNG", caption: "Before" },
+      { src: "homescreen2.jpg", caption: "After" },
+    ],
+  },
   {
     version: "0.6.0",
     date: "2026-06-25",

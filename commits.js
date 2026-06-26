@@ -1,5 +1,6 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "5eaca5c", date: "2026-06-25", subject: "Add patch-notes web page (curated notes + full commit history)" },
   { hash: "7a6f1c6", date: "2026-06-25", subject: "Wire up audio + generate placeholder SFX/music" },
   { hash: "19908b3", date: "2026-06-25", subject: "Hero-showcase home screen: theming, level-range backdrop, live biome scene" },
   { hash: "9511180", date: "2026-06-21", subject: "Expand to 10 track biomes (one per 10 levels) + tune sizes" },

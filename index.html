@@ -58,6 +58,12 @@
   .chip.Fixed    { background: rgba(255,159,10,.16); color: var(--fixed); }
   .chip.Balance  { background: rgba(176,107,255,.16); color: var(--balance); }
 
+  .shots { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 16px; }
+  .shot { flex: 1 1 200px; max-width: 320px; margin: 0; }
+  .shot img { width: 100%; border-radius: 12px; border: 1px solid var(--line); display: block; background: #000; }
+  .shot figcaption { color: var(--muted); font-size: 12px; text-align: center; margin-top: 6px;
+    text-transform: uppercase; letter-spacing: 1px; }
+
   details.commitlog { margin-top: 36px; border: 1px solid var(--line); border-radius: 14px;
     background: var(--bg2); overflow: hidden; }
   details.commitlog > summary { cursor: pointer; padding: 16px 20px; font-weight: 700;
@@ -123,6 +129,11 @@
           var tag = ["New", "Improved", "Fixed", "Balance"].indexOf(n.tag) >= 0 ? n.tag : "New";
           return '<li><span class="chip ' + tag + '">' + tag + "</span><span>" + esc(n.text) + "</span></li>";
         }).join("");
+        var shots = (e.images || []).map(function (im) {
+          return '<figure class="shot"><img src="' + esc(im.src) + '" alt="' + esc(im.caption || "") +
+                 '" loading="lazy"><figcaption>' + esc(im.caption || "") + "</figcaption></figure>";
+        }).join("");
+        var shotsBlock = shots ? '<div class="shots">' + shots + "</div>" : "";
         return (
           '<article class="entry">' +
             '<div class="entry-head">' +
@@ -130,7 +141,7 @@
               '<h2 class="title">' + esc(e.title || "") + "</h2>" +
               '<span class="date">' + fmtDate(e.date) + "</span>" +
             "</div>" +
-            '<ul class="notes">' + notes + "</ul>" +
+            '<ul class="notes">' + notes + "</ul>" + shotsBlock +
           "</article>"
         );
       }).join("");
