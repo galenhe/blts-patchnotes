@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>BLTS — Patch Notes</title>
+<style>
+  :root {
+    --bg:        #0a0e17;
+    --bg2:       #121826;
+    --card:      #161d2e;
+    --line:      #243047;
+    --text:      #e7edf7;
+    --muted:     #8a98b3;
+    --gold:      #ffd23f;
+    --new:       #34c759;
+    --improved:  #3a93ff;
+    --fixed:     #ff9f0a;
+    --balance:   #b06bff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    background: radial-gradient(1200px 600px at 50% -200px, #1a2238, var(--bg)) fixed;
+    color: var(--text);
+    line-height: 1.55;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 48px 20px 80px; }
+  header { text-align: center; margin-bottom: 40px; }
+  header .badge {
+    display: inline-block; font-weight: 700; letter-spacing: 2px; font-size: 13px;
+    color: var(--gold); border: 1px solid var(--line); border-radius: 999px;
+    padding: 6px 14px; margin-bottom: 16px; text-transform: uppercase;
+  }
+  header h1 { margin: 0; font-size: 40px; letter-spacing: 0.5px; }
+  header p { color: var(--muted); margin: 8px 0 0; }
+
+  .entry {
+    background: linear-gradient(180deg, var(--card), var(--bg2));
+    border: 1px solid var(--line); border-radius: 16px;
+    padding: 22px 24px; margin-bottom: 20px;
+  }
+  .entry-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 10px; margin-bottom: 14px; }
+  .ver { font-size: 14px; font-weight: 700; color: var(--gold); background: rgba(255,210,63,.1);
+         border-radius: 8px; padding: 3px 10px; }
+  .title { font-size: 22px; font-weight: 700; margin: 0; }
+  .date { color: var(--muted); font-size: 13px; margin-left: auto; }
+
+  ul.notes { list-style: none; margin: 0; padding: 0; }
+  ul.notes li { display: flex; gap: 12px; align-items: flex-start; padding: 7px 0; }
+  .chip {
+    flex: none; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px;
+    padding: 3px 9px; border-radius: 999px; margin-top: 2px; min-width: 74px; text-align: center;
+  }
+  .chip.New      { background: rgba(52,199,89,.16);  color: var(--new); }
+  .chip.Improved { background: rgba(58,147,255,.16); color: var(--improved); }
+  .chip.Fixed    { background: rgba(255,159,10,.16); color: var(--fixed); }
+  .chip.Balance  { background: rgba(176,107,255,.16); color: var(--balance); }
+
+  details.commitlog { margin-top: 36px; border: 1px solid var(--line); border-radius: 14px;
+    background: var(--bg2); overflow: hidden; }
+  details.commitlog > summary { cursor: pointer; padding: 16px 20px; font-weight: 700;
+    color: var(--text); list-style: none; }
+  details.commitlog > summary::-webkit-details-marker { display: none; }
+  details.commitlog > summary::after { content: "\25BE"; float: right; color: var(--muted); }
+  details.commitlog[open] > summary::after { content: "\25B4"; }
+  .commits { border-top: 1px solid var(--line); max-height: 460px; overflow-y: auto; }
+  .commit { display: flex; gap: 12px; align-items: baseline; padding: 9px 20px;
+    border-bottom: 1px solid rgba(36,48,71,.5); font-size: 14px; }
+  .commit:last-child { border-bottom: none; }
+  .commit .cdate { color: var(--muted); font-size: 12px; flex: none; width: 92px; }
+  .commit .chash { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 12px;
+    color: var(--gold); flex: none; }
+  .commit .csub { color: var(--text); }
+
+  footer { text-align: center; color: var(--muted); font-size: 13px; margin-top: 40px; }
+  a { color: var(--improved); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="badge">Patch Notes</div>
+      <h1>BLTS</h1>
+      <p>Every update to the game, newest first.</p>
+    </header>
+    <main id="entries"></main>
+
+    <details class="commitlog">
+      <summary id="commit-summary">Full commit history</summary>
+      <div class="commits" id="commits"></div>
+    </details>
+
+    <footer>Made with &#9875; · check back after each update</footer>
+  </div>
+
+  <script src="patch-notes.js"></script>
+  <script src="commits.js"></script>
+  <script>
+    (function () {
+      var data = window.PATCH_NOTES || [];
+      var root = document.getElementById("entries");
+
+      if (!data.length) {
+        root.innerHTML = '<p style="text-align:center;color:var(--muted)">No patch notes yet.</p>';
+        return;
+      }
+
+      function fmtDate(iso) {
+        var d = new Date(iso + "T00:00:00");
+        if (isNaN(d)) return iso;
+        return d.toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" });
+      }
+      function esc(s) {
+        return String(s).replace(/[&<>"]/g, function (c) {
+          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+        });
+      }
+
+      root.innerHTML = data.map(function (e) {
+        var notes = (e.notes || []).map(function (n) {
+          var tag = ["New", "Improved", "Fixed", "Balance"].indexOf(n.tag) >= 0 ? n.tag : "New";
+          return '<li><span class="chip ' + tag + '">' + tag + "</span><span>" + esc(n.text) + "</span></li>";
+        }).join("");
+        return (
+          '<article class="entry">' +
+            '<div class="entry-head">' +
+              '<span class="ver">v' + esc(e.version) + "</span>" +
+              '<h2 class="title">' + esc(e.title || "") + "</h2>" +
+              '<span class="date">' + fmtDate(e.date) + "</span>" +
+            "</div>" +
+            '<ul class="notes">' + notes + "</ul>" +
+          "</article>"
+        );
+      }).join("");
+
+      // Developer commit history (auto-generated into commits.js).
+      var commits = window.COMMITS || [];
+      var box = document.getElementById("commits");
+      var sum = document.getElementById("commit-summary");
+      if (box) {
+        if (sum) sum.textContent = "Full commit history (" + commits.length + ")";
+        box.innerHTML = commits.map(function (c) {
+          return '<div class="commit"><span class="cdate">' + esc(c.date) +
+                 '</span><span class="chash">' + esc(c.hash) +
+                 '</span><span class="csub">' + esc(c.subject) + "</span></div>";
+        }).join("");
+      }
+    })();
+  </script>
+</body>
+</html>
