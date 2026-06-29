@@ -1,5 +1,11 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "97505f7", date: "2026-06-28", subject: "Tune enemies: Barbarossa (Tank) scale up, more skeletons" },
+  { hash: "7b03745", date: "2026-06-28", subject: "Drag-to-steer controls, enemy anim fix, model swaps" },
+  { hash: "02a6501", date: "2026-06-28", subject: "Add generated powerup loot assets (orbs, archetypes, materials)" },
+  { hash: "b2b55f6", date: "2026-06-28", subject: "Add powerups: Shield, Magnet, Weapon Boost, Special" },
+  { hash: "a84e852", date: "2026-06-27", subject: "Add rewarded-ad foundation (LevelPlay) + free-lives/coins button" },
+  { hash: "b0ad64f", date: "2026-06-26", subject: "Polish home screen with generated UI art + track placeholders" },
   { hash: "5eaca5c", date: "2026-06-25", subject: "Add patch-notes web page (curated notes + full commit history)" },
   { hash: "7a6f1c6", date: "2026-06-25", subject: "Wire up audio + generate placeholder SFX/music" },
   { hash: "19908b3", date: "2026-06-25", subject: "Hero-showcase home screen: theming, level-range backdrop, live biome scene" },

@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.8.0",
+    date: "2026-06-28",
+    title: "Powerups & New Controls",
+    notes: [
+      { tag: "New", text: "Power-ups now drop mid-run: Shield (shrug off a hit), Magnet (pull in nearby coins), Weapon Boost (rapid max-power fire), and an instant Special blast." },
+      { tag: "New", text: "Smoother drag-to-steer movement — hold and drag to weave between the lanes instead of swiping." },
+      { tag: "New", text: "Captain Barbarossa joins the crew as a tough tank enemy, and a Tentacle now lurks as a boss." },
+      { tag: "Fixed", text: "Enemies that had stopped animating are back in motion." },
+      { tag: "Balance", text: "Denser skeleton hordes, and the tank is bigger and easier to hit." },
+    ],
+  },
+  {
     version: "0.7.0",
     date: "2026-06-26",
     title: "Home Screen Glow-Up",
