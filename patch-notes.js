@@ -17,6 +17,15 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.8.1",
+    date: "2026-06-28",
+    title: "Sharper Shooting",
+    notes: [
+      { tag: "Improved", text: "Your shots now fire from wherever you are, not fixed lanes — lines up perfectly with the new drag-to-steer aiming." },
+      { tag: "Balance", text: "A slightly gentler pace so you've got more time to aim and clear enemies before they reach you." },
+    ],
+  },
+  {
     version: "0.8.0",
     date: "2026-06-28",
     title: "Powerups & New Controls",

@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "5fc796b", date: "2026-07-06", subject: "Projectiles fire from player, slower pacing; powerup-upgrade WIP" },
+  { hash: "602e9f5", date: "2026-06-28", subject: "patchnotes: v0.8.0 — Powerups & New Controls (ads held)" },
   { hash: "97505f7", date: "2026-06-28", subject: "Tune enemies: Barbarossa (Tank) scale up, more skeletons" },
   { hash: "7b03745", date: "2026-06-28", subject: "Drag-to-steer controls, enemy anim fix, model swaps" },
   { hash: "02a6501", date: "2026-06-28", subject: "Add generated powerup loot assets (orbs, archetypes, materials)" },
