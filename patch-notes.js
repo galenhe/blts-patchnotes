@@ -17,6 +17,16 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.0",
+    date: "2026-07-14",
+    title: "Powerup Loadouts",
+    notes: [
+      { tag: "New", text: "The Armory has a new Powerups tab: level up Shield, Magnet, Weapon Boost, and Special Blast with coins to make each one stronger." },
+      { tag: "New", text: "Build your loadout — pick the 2 powerups you want to find mid-run, and only those will drop, so you get the effects you're after." },
+      { tag: "Improved", text: "Upgraded powerups last longer, and a maxed-out Special Blast clears even more of the screen." },
+    ],
+  },
+  {
     version: "0.8.1",
     date: "2026-06-28",
     title: "Sharper Shooting",

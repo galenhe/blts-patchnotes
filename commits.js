@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "fade71a", date: "2026-07-14", subject: "Add upgradeable powerups + 2-slot loadout (Armory Powerups tab)" },
+  { hash: "73d79a7", date: "2026-07-06", subject: "patchnotes: v0.8.1 — Sharper Shooting" },
   { hash: "5fc796b", date: "2026-07-06", subject: "Projectiles fire from player, slower pacing; powerup-upgrade WIP" },
   { hash: "602e9f5", date: "2026-06-28", subject: "patchnotes: v0.8.0 — Powerups & New Controls (ads held)" },
   { hash: "97505f7", date: "2026-06-28", subject: "Tune enemies: Barbarossa (Tank) scale up, more skeletons" },
