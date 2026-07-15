@@ -17,6 +17,14 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.2",
+    date: "2026-07-14",
+    title: "Progress at a Glance",
+    notes: [
+      { tag: "New", text: "A progress bar now runs up the side of the screen, filling as you advance so you always know how close you are to the finish gate." },
+    ],
+  },
+  {
     version: "0.9.1",
     date: "2026-07-14",
     title: "Cross the Finish",
