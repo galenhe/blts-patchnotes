@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "4807db1", date: "2026-07-14", subject: "Add a visible finish gate at each level's end" },
+  { hash: "9860bf6", date: "2026-07-14", subject: "patchnotes: v0.9.0 — Powerup Loadouts" },
   { hash: "fade71a", date: "2026-07-14", subject: "Add upgradeable powerups + 2-slot loadout (Armory Powerups tab)" },
   { hash: "73d79a7", date: "2026-07-06", subject: "patchnotes: v0.8.1 — Sharper Shooting" },
   { hash: "5fc796b", date: "2026-07-06", subject: "Projectiles fire from player, slower pacing; powerup-upgrade WIP" },

@@ -17,6 +17,14 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.1",
+    date: "2026-07-14",
+    title: "Cross the Finish",
+    notes: [
+      { tag: "New", text: "Every level now ends at a finish gate — a glowing banner up ahead marks your goal, so you can see exactly how far you've got left to run." },
+    ],
+  },
+  {
     version: "0.9.0",
     date: "2026-07-14",
     title: "Powerup Loadouts",
