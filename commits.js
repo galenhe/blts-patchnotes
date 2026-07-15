@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "91eafb2", date: "2026-07-14", subject: "Hide the Default placeholder from home-screen character select" },
+  { hash: "ad742ad", date: "2026-07-14", subject: "patchnotes: v0.9.2 — Progress at a Glance" },
   { hash: "a9cf9fa", date: "2026-07-14", subject: "Add a vertical level-progress bar to the HUD" },
   { hash: "09a88ff", date: "2026-07-14", subject: "patchnotes: v0.9.1 — Cross the Finish; track finish-gate placeholder" },
   { hash: "4807db1", date: "2026-07-14", subject: "Add a visible finish gate at each level's end" },

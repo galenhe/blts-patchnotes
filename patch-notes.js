@@ -17,6 +17,14 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.3",
+    date: "2026-07-14",
+    title: "Cleaner Character Select",
+    notes: [
+      { tag: "Improved", text: "The home-screen character picker now shows only the real heroes — the old placeholder character has been removed, so you start on an actual character." },
+    ],
+  },
+  {
     version: "0.9.2",
     date: "2026-07-14",
     title: "Progress at a Glance",
