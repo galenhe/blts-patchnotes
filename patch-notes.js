@@ -27,7 +27,8 @@ window.PATCH_NOTES = [
       { tag: "Fixed", text: "Returning to the menu after finishing a level no longer detours through the loading screen." },
     ],
     images: [
-      { src: "homescreen4.PNG", caption: "Full-width bottom nav across all menus" },
+      { src: "loadingscreen2.PNG", caption: "Launch screen: heroes and bosses together" },
+      { src: "homescreen4.PNG",    caption: "Full-width bottom nav across all menus" },
     ],
   },
   {
