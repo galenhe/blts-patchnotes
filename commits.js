@@ -1,5 +1,13 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "319644c", date: "2026-07-19", subject: "Bake Royal Navy facelift into Game.unity; restore clean Boot scene" },
+  { hash: "b4b6c94", date: "2026-07-19", subject: "Guard Setup UI against running on the Boot scene" },
+  { hash: "e3c8ee5", date: "2026-07-19", subject: "Fix Boot-scene fallout: menu button no longer opens the loading screen" },
+  { hash: "0847206", date: "2026-07-19", subject: "UI facelift: uniform Royal Navy theme driven by one source across all menus" },
+  { hash: "29ecc1d", date: "2026-07-14", subject: "Add boot/splash scene; rename real game scene asd.unity -> Scenes/Game.unity" },
+  { hash: "11c08ba", date: "2026-07-14", subject: "Add boot/splash scene: loading bar + tap-to-start over a 3D diorama" },
+  { hash: "7fe4a7f", date: "2026-07-14", subject: "Add generated PowerupUpgrade assets (Shield/Magnet/WeaponBoost/Special)" },
+  { hash: "4ceecc8", date: "2026-07-14", subject: "patchnotes: v0.9.3 — Cleaner Character Select" },
   { hash: "91eafb2", date: "2026-07-14", subject: "Hide the Default placeholder from home-screen character select" },
   { hash: "ad742ad", date: "2026-07-14", subject: "patchnotes: v0.9.2 — Progress at a Glance" },
   { hash: "a9cf9fa", date: "2026-07-14", subject: "Add a vertical level-progress bar to the HUD" },

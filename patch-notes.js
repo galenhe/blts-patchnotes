@@ -17,6 +17,20 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.4",
+    date: "2026-07-19",
+    title: "A Grand Entrance",
+    notes: [
+      { tag: "New", text: "The game now opens with a proper launch screen — your crew lined up under the BLTS banner with a loading bar, then tap to set sail." },
+      { tag: "Improved", text: "A top-to-bottom menu makeover: one unified 'Royal Navy' look — deep navy panels, brass-gold titles, and bright-blue buttons — applied consistently across the home screen, level select, skins, and the armory." },
+      { tag: "New", text: "The whole UI is now theme-driven, so seasonal and event skins can restyle every menu at once down the line." },
+    ],
+    images: [
+      { src: "loadingscreen1.PNG", caption: "New launch screen" },
+      { src: "homescreen3.PNG",    caption: "Refreshed home menu" },
+    ],
+  },
+  {
     version: "0.9.3",
     date: "2026-07-14",
     title: "Cleaner Character Select",
