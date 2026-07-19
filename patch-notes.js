@@ -17,6 +17,20 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.5",
+    date: "2026-07-19",
+    title: "Menu, Polished",
+    notes: [
+      { tag: "Improved", text: "The bottom menu bar now runs full-width across every menu screen — Home, Levels, Skins and Armory — and highlights the screen you're currently on, instead of only appearing on the home page." },
+      { tag: "Improved", text: "The launch screen now frames the whole crew together — both heroes and both bosses — facing forward in a clean group shot." },
+      { tag: "Fixed", text: "The home screen no longer has an off-colored band splitting it across the middle." },
+      { tag: "Fixed", text: "Returning to the menu after finishing a level no longer detours through the loading screen." },
+    ],
+    images: [
+      { src: "homescreen4.PNG", caption: "Full-width bottom nav across all menus" },
+    ],
+  },
+  {
     version: "0.9.4",
     date: "2026-07-19",
     title: "A Grand Entrance",

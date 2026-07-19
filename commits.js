@@ -1,5 +1,14 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "c4157f4", date: "2026-07-19", subject: "Regenerate Game/Boot scenes: full-width nav, home gradient, diorama fixes" },
+  { hash: "25a4fc3", date: "2026-07-19", subject: "Fix home-screen mid-screen split: real bottom gradient" },
+  { hash: "1956d1b", date: "2026-07-19", subject: "Setup UI: clear stray NavBar/ShopToast so they don't duplicate on re-run" },
+  { hash: "bd97aad", date: "2026-07-19", subject: "Nav bar: full-width solid bottom bar, evenly spread tabs" },
+  { hash: "d752c88", date: "2026-07-19", subject: "Setup UI targets Game.unity absolutely (symmetric with Setup Boot Scene)" },
+  { hash: "dcb72d2", date: "2026-07-19", subject: "Persistent bottom nav across all menu screens with active-tab highlight" },
+  { hash: "730109c", date: "2026-07-19", subject: "Boot diorama: face the bosses forward (per-model yaw)" },
+  { hash: "7411637", date: "2026-07-19", subject: "Boot diorama: fit all four in frame, frozen on a still pose" },
+  { hash: "ef97236", date: "2026-07-19", subject: "patchnotes: v0.9.4 — A Grand Entrance (launch screen + Royal Navy facelift)" },
   { hash: "319644c", date: "2026-07-19", subject: "Bake Royal Navy facelift into Game.unity; restore clean Boot scene" },
   { hash: "b4b6c94", date: "2026-07-19", subject: "Guard Setup UI against running on the Boot scene" },
   { hash: "e3c8ee5", date: "2026-07-19", subject: "Fix Boot-scene fallout: menu button no longer opens the loading screen" },
