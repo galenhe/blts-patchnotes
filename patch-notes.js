@@ -17,6 +17,21 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.7",
+    date: "2026-07-21",
+    title: "A New Home Screen",
+    notes: [
+      { tag: "New", text: "The home screen has been rebuilt around you. Your character's portrait sits top-left beside your name and a new Captain Level with its own XP bar, which fills as you collect stars, clear stages and defeat enemies." },
+      { tag: "New", text: "PLAY is now a raised gold button in the centre of the bottom bar, so it travels with you across Levels, Skins and Armory instead of only living on the home page." },
+      { tag: "New", text: "Your character now stands at ease on the home screen, breaking into the occasional wave, cheer or jab — picked at random, so it never falls into a pattern." },
+      { tag: "Improved", text: "Lives are a single clear chip showing how many you have and the countdown to your next one, replacing the loose hearts and separate timer. Coins and lives both carry a + for topping up." },
+      { tag: "Improved", text: "Quests and the watch-ad reward now sit together in one column on the right, leaving the left of the screen clear for your character." },
+      { tag: "Fixed", text: "Your character stayed frozen during a run instead of animating. They now run, jump, slide and react properly." },
+      { tag: "Fixed", text: "Progress is now written in a single block, so a crash or a force-close can no longer leave you charged for an upgrade you did not receive — or holding one you never paid for." },
+      { tag: "Improved", text: "Smoother gameplay: the on-screen counters no longer redraw every single frame, easing memory pressure on phones during long runs." },
+    ],
+  },
+  {
     version: "0.9.6",
     date: "2026-07-20",
     title: "Quests & a New Level Select",

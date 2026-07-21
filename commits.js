@@ -1,5 +1,16 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "5e39ca3", date: "2026-07-21", subject: "Unify persistence behind SaveService: one atomic, versioned save blob" },
+  { hash: "ab0ca13", date: "2026-07-20", subject: "Codebase audit: remove redundancy, fix theme/audio ownership, cut HUD allocations" },
+  { hash: "b358349", date: "2026-07-20", subject: "Home screen UX pass: identity header, raised PLAY nav, side rail; fix player animation" },
+  { hash: "ad56e57", date: "2026-07-20", subject: "Themed section overlay; portrait lower; profile icon overflows the bar" },
+  { hash: "9706f98", date: "2026-07-20", subject: "Portrait: pan lower and make the aim height per-character" },
+  { hash: "898f877", date: "2026-07-20", subject: "Portrait framing, bigger profile icon, relocate level jumper" },
+  { hash: "173ab36", date: "2026-07-20", subject: "Bake character head-shot portraits instead of a live face camera" },
+  { hash: "80b69b8", date: "2026-07-20", subject: "Home screen: live character portrait, hide stray MENU, reposition side buttons" },
+  { hash: "bebeb46", date: "2026-07-20", subject: "Home character: idle with random emotes instead of running" },
+  { hash: "955f5da", date: "2026-07-20", subject: "Home screen: new top bar (profile, hearts + timer, coins, cog) + profile stats" },
+  { hash: "e7e5717", date: "2026-07-20", subject: "patchnotes: v0.9.6 — Quests & a New Level Select" },
   { hash: "6ce7ffd", date: "2026-07-20", subject: "Bake level-select facelift into Game.unity" },
   { hash: "ad26b6a", date: "2026-07-20", subject: "Fix level cards rendering at default height; center number, bigger stars" },
   { hash: "02714fd", date: "2026-07-20", subject: "Facelift level select: big cards (5 visible), descending, centered on current" },
