@@ -17,6 +17,22 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.6",
+    date: "2026-07-20",
+    title: "Quests & a New Level Select",
+    notes: [
+      { tag: "New", text: "Quests are here! Daily and weekly tasks — defeat enemies, clear stages, earn stars, beat bosses and collect coins — each paying out coins to keep your upgrades coming. Tap the QUESTS icon on the home screen; a badge shows how many are ready to claim." },
+      { tag: "New", text: "An Awards tab tracks your lifetime milestones: total enemies defeated, bosses beaten, stages cleared, stars collected and coins earned." },
+      { tag: "New", text: "Claim All — when more than one quest on a tab is ready, collect them in a single tap." },
+      { tag: "Improved", text: "Level select redesigned: far bigger cards showing five stages at a time, large gold stars, and a clear CLEARED / PLAY / LOCKED label. The list now reads downward from the newest stage and opens centred on the one you're up to." },
+      { tag: "Improved", text: "Clearing a stage now unlocks the next one and automatically moves the PLAY button on to it." },
+    ],
+    images: [
+      { src: "levelselect1.PNG", caption: "Before" },
+      { src: "levelselect2.PNG", caption: "After" },
+    ],
+  },
+  {
     version: "0.9.5",
     date: "2026-07-19",
     title: "Menu, Polished",
