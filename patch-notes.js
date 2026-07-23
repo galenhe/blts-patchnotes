@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.8",
+    date: "2026-07-22",
+    title: "The Early Levels Bite Back",
+    notes: [
+      { tag: "Balance", text: "The opening stages were a walkover — no longer. Enemies now come more often and in bigger groups from the very first level, so the early game actually warms you up instead of putting you to sleep." },
+      { tag: "Improved", text: "Wider battlefield: the track now has more lanes to steer between, and hordes spread across them — more to dodge, more to mow down." },
+    ],
+    images: [
+      { src: "gameplay1.PNG", caption: "Denser early hordes across more lanes" },
+    ],
+  },
+  {
     version: "0.9.7",
     date: "2026-07-21",
     title: "A New Home Screen",
