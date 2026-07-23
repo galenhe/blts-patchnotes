@@ -31,7 +31,7 @@ window.PATCH_NOTES = [
       { tag: "Improved", text: "Smoother gameplay: the on-screen counters no longer redraw every single frame, easing memory pressure on phones during long runs." },
     ],
     images: [
-      { src: "homescreen4.PNG", caption: "Before" },
+      { src: "homescreen4.1.PNG", caption: "Before" },
       { src: "homescreen5.PNG", caption: "After" },
     ],
   },
