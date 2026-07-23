@@ -30,6 +30,9 @@ window.PATCH_NOTES = [
       { tag: "Fixed", text: "Progress is now written in a single block, so a crash or a force-close can no longer leave you charged for an upgrade you did not receive — or holding one you never paid for." },
       { tag: "Improved", text: "Smoother gameplay: the on-screen counters no longer redraw every single frame, easing memory pressure on phones during long runs." },
     ],
+    images: [
+      { src: "homescreen5.PNG", caption: "The redesigned home screen" },
+    ],
   },
   {
     version: "0.9.6",
