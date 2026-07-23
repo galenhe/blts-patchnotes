@@ -17,6 +17,15 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.9",
+    date: "2026-07-23",
+    title: "Screens With Some Shine",
+    notes: [
+      { tag: "Improved", text: "The stage-clear screen is a celebration now: it pops in, your stars light up one at a time with a chime, and your run totals — enemies defeated, distance, score — tick up in front of you." },
+      { tag: "Improved", text: "The Armory got a proper makeover. Every weapon and powerup is a card with an icon, a segmented level bar so you can see your progress at a glance, and a clean buy button. Cards slide in when you open a tab, and the one you upgrade gives a satisfying pop." },
+    ],
+  },
+  {
     version: "0.9.8",
     date: "2026-07-22",
     title: "The Early Levels Bite Back",
