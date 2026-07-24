@@ -17,6 +17,21 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.10",
+    date: "2026-07-23",
+    title: "Stage Clear, Properly",
+    notes: [
+      { tag: "Fixed", text: "Clearing a stage sometimes failed to record anything at all — your stars, high score and the next stage unlock could all be quietly lost, and the results screen always claimed you had defeated 0 enemies. Runs are now saved reliably." },
+      { tag: "New", text: "The clear screen tells you which stage you just beat, and now counts up the coins you earned in the run alongside enemies, distance and score." },
+      { tag: "Improved", text: "Your stars now drop in from above and land in their slots one by one, and the empty slots are finally visible — so a one-star finish reads as one of three, not one star on its own." },
+      { tag: "Fixed", text: "Reviving no longer drops you back in with enemies still standing on top of you." },
+    ],
+    images: [
+      { src: "stageclear1.PNG", caption: "Before" },
+      { src: "stageclear2.PNG", caption: "After" },
+    ],
+  },
+  {
     version: "0.9.9",
     date: "2026-07-23",
     title: "Screens With Some Shine",
