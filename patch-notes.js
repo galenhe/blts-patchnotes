@@ -17,6 +17,20 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.12",
+    date: "2026-07-26",
+    title: "Learning the Ropes",
+    notes: [
+      { tag: "New", text: "New captains get a proper welcome. The first few stages pause to teach one thing at a time — how to move, that your cannon fires on its own, your screen-clearing special, and where the gold is — and un-pause the moment you try it. Replay an early stage and it teaches you again." },
+      { tag: "New", text: "Your special now charges as you fight. A ring meter on the left fills with every kill and lights up when it's ready to unleash — no more staring at a cooldown timer." },
+      { tag: "Balance", text: "The opening stages are shorter so you can find your feet, easing back to full length by stage 10. And gold starts dropping from stage 5, so you reach the first boss with coins to spend." },
+    ],
+    images: [
+      { src: "tutorialcontrols1.PNG", caption: "Tips pause the game — un-pause by doing them" },
+      { src: "powerup1.PNG", caption: "The special charges as you kill" },
+    ],
+  },
+  {
     version: "0.9.11",
     date: "2026-07-24",
     title: "Five Bosses, One Honest Loadout",

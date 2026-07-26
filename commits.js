@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "be97a99", date: "2026-07-26", subject: "Pause-to-read tutorial for the early stages" },
+  { hash: "c5ea66d", date: "2026-07-26", subject: "Special charges by kills, with an on-screen circular meter" },
+  { hash: "0a49620", date: "2026-07-26", subject: "Ease in the early game: shorter stages 1-9, coins from stage 5" },
+  { hash: "7772826", date: "2026-07-25", subject: "patchnotes: v0.9.11 — Five Bosses, One Honest Loadout" },
   { hash: "13f84a1", date: "2026-07-25", subject: "Apply account upgrades on the first run: finish the onGameStart sweep" },
   { hash: "0d89df0", date: "2026-07-25", subject: "Regenerate Game.unity + boss archetypes from the wizards" },
   { hash: "ddd6e05", date: "2026-07-24", subject: "Fix Armory/Levels/etc. panel staying up over gameplay when PLAY is pressed" },
