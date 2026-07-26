@@ -17,6 +17,16 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.13",
+    date: "2026-07-26",
+    title: "Coin Runs & a Clearer Start",
+    notes: [
+      { tag: "New", text: "Gold now drops in trails — a run of coins down a single lane, with clear stretches of empty track between them. Chasing a trail means committing to its lane while the enemies pour down the others, so every run of gold is a little gamble." },
+      { tag: "Improved", text: "The 'drag to move' tip now shows a finger sliding left and right between two arrows, so it's obvious you can steer either way." },
+      { tag: "Improved", text: "Retrying a stage no longer replays its tutorial tip — you'll only see it again if you head back out and pick an early level on purpose." },
+    ],
+  },
+  {
     version: "0.9.12",
     date: "2026-07-26",
     title: "Learning the Ropes",

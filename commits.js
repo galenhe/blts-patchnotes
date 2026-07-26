@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "f122e96", date: "2026-07-26", subject: "Refresh CLAUDE.md; set editor start level to 1 for tutorial testing" },
+  { hash: "a4e32bb", date: "2026-07-26", subject: "Tutorial polish: animated drag hint, and no re-nag on Retry" },
+  { hash: "9f33e1a", date: "2026-07-26", subject: "Coins drop in lane trails with gaps between, not a constant stream" },
+  { hash: "167d5a0", date: "2026-07-26", subject: "patchnotes: v0.9.12 — Learning the Ropes" },
   { hash: "be97a99", date: "2026-07-26", subject: "Pause-to-read tutorial for the early stages" },
   { hash: "c5ea66d", date: "2026-07-26", subject: "Special charges by kills, with an on-screen circular meter" },
   { hash: "0a49620", date: "2026-07-26", subject: "Ease in the early game: shorter stages 1-9, coins from stage 5" },
