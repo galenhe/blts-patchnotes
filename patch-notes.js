@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.11",
+    date: "2026-07-24",
+    title: "Five Bosses, One Honest Loadout",
+    notes: [
+      { tag: "New", text: "Bosses are no longer all the same tentacle. Five different foes — Kraken, Captain, Mako, Sharky and Reaper — now rotate across the boss stages, and each one comes back tougher the next time you meet it." },
+      { tag: "Fixed", text: "Your weapon and powerup upgrades weren't applying on the very first run after opening the game — you had to back out to the menu and play again for them to kick in. They now take effect on the first play, every time." },
+      { tag: "Fixed", text: "Pressing PLAY straight from the Armory (or any other tab) no longer leaves that panel and its back button floating over the running game." },
+      { tag: "Improved", text: "The Weapons tab in the Armory now unlocks once you reach Stage 4, so brand-new captains aren't drowning in upgrade options before they've earned the coins to use them." },
+      { tag: "Fixed", text: "The divider under the top bar no longer draws across the PLAY button and your profile icon." },
+    ],
+  },
+  {
     version: "0.9.10",
     date: "2026-07-23",
     title: "Stage Clear, Properly",
