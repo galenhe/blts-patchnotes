@@ -1,5 +1,8 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "5e02e8b", date: "2026-07-28", subject: "Stage-clear victory wave: hero stops and waves to camera" },
+  { hash: "ed79c25", date: "2026-07-28", subject: "Boss fight polish: barrage attacks, intro cutscene, focused arena band" },
+  { hash: "1b314ec", date: "2026-07-28", subject: "patchnotes: v0.9.14 — Boss Battles" },
   { hash: "85fc0a1", date: "2026-07-28", subject: "Regenerate scenes + assets from the wizards (boss/animation pass)" },
   { hash: "e3c0db9", date: "2026-07-28", subject: "Stage-clear hero shot + robust animator wiring" },
   { hash: "8a48224", date: "2026-07-28", subject: "Boss arena: pre-placed themed arena, forward-lock, strafe fight" },

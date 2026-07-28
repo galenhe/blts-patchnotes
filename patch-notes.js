@@ -17,6 +17,17 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.15",
+    date: "2026-07-28",
+    title: "Boss Fights With Teeth",
+    notes: [
+      { tag: "Improved", text: "Bosses actually fight back now. Instead of standing there taking hits, they unleash bursts of telegraphed lane attacks — a quick flurry you have to weave through, then a breather, then another. Watch the warning strips and strafe clear." },
+      { tag: "Improved", text: "The duel is tighter. The boss's attacks and your dodging both stay in a focused lane down the middle of the arena, so it's a real face-off instead of a sprawl across the whole floor." },
+      { tag: "New", text: "Reaching a boss now kicks off a reveal — the camera pulls back to frame the arena and a PLAY button lets you start the fight when you're ready. Bosses swing their weapon as they attack, too." },
+      { tag: "New", text: "Clear a stage and your captain plants their feet and waves to the camera as it circles round for the hero shot." },
+    ],
+  },
+  {
     version: "0.9.14",
     date: "2026-07-28",
     title: "Boss Battles",
