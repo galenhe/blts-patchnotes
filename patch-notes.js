@@ -17,6 +17,17 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.14",
+    date: "2026-07-28",
+    title: "Boss Battles",
+    notes: [
+      { tag: "New", text: "Boss stages are real fights now. You run up through the usual crew, then arrive at the boss's arena — an open ground themed to match the biome — where the map stops and you square off. Strafe left and right to dodge the boss's telegraphed lane attacks while you wear it down; kill it to clear the stage." },
+      { tag: "New", text: "Bosses now have a proper health bar across the top of the screen — their name and remaining health — so you can watch the fight turn." },
+      { tag: "Balance", text: "Bosses are far tougher. No more melting them in two seconds, and their health now climbs smoothly from the first boss to the last, so every one is a real check." },
+      { tag: "Improved", text: "Clearing a stage gets a victory moment — the camera swings around your captain for a hero shot before the results roll in." },
+    ],
+  },
+  {
     version: "0.9.13",
     date: "2026-07-26",
     title: "Coin Runs & a Clearer Start",

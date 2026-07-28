@@ -1,5 +1,11 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "85fc0a1", date: "2026-07-28", subject: "Regenerate scenes + assets from the wizards (boss/animation pass)" },
+  { hash: "e3c0db9", date: "2026-07-28", subject: "Stage-clear hero shot + robust animator wiring" },
+  { hash: "8a48224", date: "2026-07-28", subject: "Boss arena: pre-placed themed arena, forward-lock, strafe fight" },
+  { hash: "170141f", date: "2026-07-26", subject: "Rebalance boss HP: moderate ~10s fights, smoothed scaling" },
+  { hash: "e77ebf2", date: "2026-07-26", subject: "Boss fight groundwork: top HP bar + telegraphed dodgeable lane attack" },
+  { hash: "d0ea62e", date: "2026-07-26", subject: "patchnotes: v0.9.13 — Coin Runs & a Clearer Start" },
   { hash: "f122e96", date: "2026-07-26", subject: "Refresh CLAUDE.md; set editor start level to 1 for tutorial testing" },
   { hash: "a4e32bb", date: "2026-07-26", subject: "Tutorial polish: animated drag hint, and no re-nag on Retry" },
   { hash: "9f33e1a", date: "2026-07-26", subject: "Coins drop in lane trails with gaps between, not a constant stream" },
