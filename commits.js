@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "4109dcb", date: "2026-07-28", subject: "Boss dialogue system + first-boss dodge tip (WIP, untested)" },
+  { hash: "f005bba", date: "2026-07-28", subject: "patchnotes: v0.9.15 — Boss Fights With Teeth" },
   { hash: "5e02e8b", date: "2026-07-28", subject: "Stage-clear victory wave: hero stops and waves to camera" },
   { hash: "ed79c25", date: "2026-07-28", subject: "Boss fight polish: barrage attacks, intro cutscene, focused arena band" },
   { hash: "1b314ec", date: "2026-07-28", subject: "patchnotes: v0.9.14 — Boss Battles" },

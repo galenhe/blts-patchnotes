@@ -17,6 +17,15 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.16",
+    date: "2026-07-28",
+    title: "Boss Intros & Dodge Coaching",
+    notes: [
+      { tag: "New", text: "Bosses get a proper entrance now. Reach the arena and a story moment plays out — the boss steps up and speaks, and you tap through it before the fight kicks off. Each boss has its own lines, so the pirate story grows as you climb toward the Grand Line." },
+      { tag: "New", text: "The first boss you ever face walks you through it: a quick prompt to STRAFE side to side and slip past its attacks, so you're ready before the barrage starts. It only shows the once." },
+    ],
+  },
+  {
     version: "0.9.15",
     date: "2026-07-28",
     title: "Boss Fights With Teeth",
