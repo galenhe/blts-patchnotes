@@ -17,6 +17,16 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.17",
+    date: "2026-07-28",
+    title: "Bigger, Meaner Bosses",
+    notes: [
+      { tag: "New", text: "Bosses introduce themselves now. Reach the arena and the screen darkens for a face-off — the boss's portrait and a taunt fill the view before the fight. Each of the five foes has their own words as you meet them." },
+      { tag: "New", text: "The back half of the voyage gets ELITE bosses. Levels 60-100 pit you against ascended versions — Ancient Kraken, Dread Captain, Blood Mako, Megalodon and Soul Reaper — that hunt you with homing attacks and fly into a frenzy as their health drops." },
+      { tag: "Improved", text: "Bosses are bigger and more imposing, and they loom in place while you close in — no more jogging on the spot before the fight." },
+    ],
+  },
+  {
     version: "0.9.16",
     date: "2026-07-28",
     title: "Boss Intros & Dodge Coaching",
