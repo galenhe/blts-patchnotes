@@ -17,6 +17,15 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.19",
+    date: "2026-07-28",
+    title: "A Fresh Coat of Paint",
+    notes: [
+      { tag: "Improved", text: "New loading screen! A golden-hour beach scene — your captains sprinting up the sand while krakens, a pirate captain and skeleton crew loom behind, framed by palm trees and cannons." },
+      { tag: "Improved", text: "The home screen and splash now wear the new BROADSIDE / PIRATE BLITZ wordmark, and the start screen got a proper tap-to-start button." },
+    ],
+  },
+  {
     version: "0.9.18",
     date: "2026-07-28",
     title: "Say Hello to Broadside: Pirate Blitz",

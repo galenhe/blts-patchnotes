@@ -1,5 +1,10 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "7097e66", date: "2026-07-29", subject: "Regenerate Boot.unity — filled-out beach splash + start button (wizard)" },
+  { hash: "ec96022", date: "2026-07-29", subject: "Splash: fill the lower frame + give TAP TO START a real button" },
+  { hash: "d1c56cc", date: "2026-07-29", subject: "Fill out the splash diorama: more crew, twin (smaller) tentacles, beach props" },
+  { hash: "e26fb44", date: "2026-07-29", subject: "Home title fits one line; loading-screen facelift (splash-art slot + beach diorama)" },
+  { hash: "9cacfdc", date: "2026-07-29", subject: "patchnotes: v0.9.18 — rebrand to Broadside: Pirate Blitz; align bundleVersion" },
   { hash: "bc64e93", date: "2026-07-29", subject: "Studio identity: BLTS Studios" },
   { hash: "8764759", date: "2026-07-29", subject: "Rebrand to Broadside: Pirate Blitz" },
   { hash: "06c73dc", date: "2026-07-29", subject: "Facelift the boot splash: cinematic lighting, vignette, boss lineup, logo glow" },
