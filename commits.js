@@ -1,5 +1,8 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "7e190ec", date: "2026-07-30", subject: "Rebrand: flip to Pirate Blitz: Broadside (Pirate Blitz forefront, Broadside subtitle)" },
+  { hash: "e08ceb5", date: "2026-07-30", subject: "PLAYSTORE: launch checklist; dev account done, closed test is the long-pole" },
+  { hash: "46e03dc", date: "2026-07-29", subject: "patchnotes: v0.9.19 — A Fresh Coat of Paint" },
   { hash: "7097e66", date: "2026-07-29", subject: "Regenerate Boot.unity — filled-out beach splash + start button (wizard)" },
   { hash: "ec96022", date: "2026-07-29", subject: "Splash: fill the lower frame + give TAP TO START a real button" },
   { hash: "d1c56cc", date: "2026-07-29", subject: "Fill out the splash diorama: more crew, twin (smaller) tentacles, beach props" },

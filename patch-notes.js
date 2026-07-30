@@ -22,15 +22,15 @@ window.PATCH_NOTES = [
     title: "A Fresh Coat of Paint",
     notes: [
       { tag: "Improved", text: "New loading screen! A golden-hour beach scene — your captains sprinting up the sand while krakens, a pirate captain and skeleton crew loom behind, framed by palm trees and cannons." },
-      { tag: "Improved", text: "The home screen and splash now wear the new BROADSIDE / PIRATE BLITZ wordmark, and the start screen got a proper tap-to-start button." },
+      { tag: "Improved", text: "The home screen and splash now wear the new PIRATE BLITZ / BROADSIDE wordmark, and the start screen got a proper tap-to-start button." },
     ],
   },
   {
     version: "0.9.18",
     date: "2026-07-28",
-    title: "Say Hello to Broadside: Pirate Blitz",
+    title: "Say Hello to Pirate Blitz: Broadside",
     notes: [
-      { tag: "New", text: "The game has a name! What you've been playing is now BROADSIDE: PIRATE BLITZ. A 'broadside' is a full volley from every cannon at once — which is exactly how your ship fights. Same game you know, a sharper identity. Brought to you by BLTS Studios." },
+      { tag: "New", text: "The game has a name! What you've been playing is now PIRATE BLITZ: BROADSIDE. A 'broadside' is a full volley from every cannon at once — which is exactly how your ship fights. Same game you know, a sharper identity. Brought to you by BLTS Studios." },
     ],
   },
   {
