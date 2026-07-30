@@ -17,6 +17,14 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.18",
+    date: "2026-07-28",
+    title: "Say Hello to Broadside: Pirate Blitz",
+    notes: [
+      { tag: "New", text: "The game has a name! What you've been playing is now BROADSIDE: PIRATE BLITZ. A 'broadside' is a full volley from every cannon at once — which is exactly how your ship fights. Same game you know, a sharper identity. Brought to you by BLTS Studios." },
+    ],
+  },
+  {
     version: "0.9.17",
     date: "2026-07-28",
     title: "Bigger, Meaner Bosses",

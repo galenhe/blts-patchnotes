@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "bc64e93", date: "2026-07-29", subject: "Studio identity: BLTS Studios" },
+  { hash: "8764759", date: "2026-07-29", subject: "Rebrand to Broadside: Pirate Blitz" },
+  { hash: "06c73dc", date: "2026-07-29", subject: "Facelift the boot splash: cinematic lighting, vignette, boss lineup, logo glow" },
+  { hash: "9c735a5", date: "2026-07-29", subject: "patchnotes: v0.9.17 — Bigger, Meaner Bosses" },
   { hash: "10fe304", date: "2026-07-29", subject: "Re-bake boss portraits at the 3/4 dramatic angle (Wire Pirate Enemies)" },
   { hash: "54fa27e", date: "2026-07-29", subject: "Boss portraits: 3/4 angle + slight low camera for a dramatic look" },
   { hash: "01989d5", date: "2026-07-29", subject: "Boss portraits face front (not back); darker dialogue tint" },
