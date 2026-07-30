@@ -24,6 +24,9 @@ window.PATCH_NOTES = [
       { tag: "Improved", text: "New loading screen! A golden-hour beach scene — your captains sprinting up the sand while krakens, a pirate captain and skeleton crew loom behind, framed by palm trees and cannons." },
       { tag: "Improved", text: "The home screen and splash now wear the new PIRATE BLITZ / BROADSIDE wordmark, and the start screen got a proper tap-to-start button." },
     ],
+    images: [
+      { src: "loadingscreenupdated1.png", caption: "The new golden-hour loading screen" },
+    ],
   },
   {
     version: "0.9.18",

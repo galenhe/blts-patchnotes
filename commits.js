@@ -1,5 +1,13 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "8df8eb0", date: "2026-07-30", subject: "Move Kenney cannon from boot splash to the home preview; patchnotes loading-screen image" },
+  { hash: "0dbdaab", date: "2026-07-30", subject: "Splash: scale the Kenney cannon down + move it to a foreground hero spot" },
+  { hash: "1545d05", date: "2026-07-30", subject: "Add Kenney Pirate Kit (CC0 props) + wire one cannon into the boot splash to test" },
+  { hash: "e8a5fdc", date: "2026-07-30", subject: "patchnotes: headerimage5.jpg (4096x2304, ~1.5MB) — under the 2MB header limit" },
+  { hash: "03df0ee", date: "2026-07-30", subject: "patchnotes: Play-ready developer_icon5 (512x512) + headerimage5 (4096x2304)" },
+  { hash: "33d70ae", date: "2026-07-30", subject: "Splash capture: add a Wide (16:9 + widened FOV) export so nothing's cropped" },
+  { hash: "a91b9ef", date: "2026-07-30", subject: "Add Tools > BLTS > Capture Splash Reference PNG (export the splash 3D scene)" },
+  { hash: "5d4758c", date: "2026-07-30", subject: "patchnotes: regenerate commits.js (rebrand flip)" },
   { hash: "7e190ec", date: "2026-07-30", subject: "Rebrand: flip to Pirate Blitz: Broadside (Pirate Blitz forefront, Broadside subtitle)" },
   { hash: "e08ceb5", date: "2026-07-30", subject: "PLAYSTORE: launch checklist; dev account done, closed test is the long-pole" },
   { hash: "46e03dc", date: "2026-07-29", subject: "patchnotes: v0.9.19 — A Fresh Coat of Paint" },
