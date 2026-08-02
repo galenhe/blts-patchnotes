@@ -1,5 +1,13 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "f0ae88c", date: "2026-08-02", subject: "Home nav: de-round tab highlights, swap Skins/Levels; import Kenney kit" },
+  { hash: "27379e6", date: "2026-08-02", subject: "Home: drop the left palm; pan the header portrait down (show the neck)" },
+  { hash: "b47d35f", date: "2026-08-02", subject: "Home showcase: rotate cannon, add symmetric cannon + palms, flag, ship" },
+  { hash: "b74f97d", date: "2026-08-02", subject: "Loading screen: new clean splash art + full self-contained loading bar" },
+  { hash: "e5f28d7", date: "2026-08-02", subject: "patchnotes: show the new painted loading screen (web JPG) in the v0.9.19 entry" },
+  { hash: "a63703c", date: "2026-08-02", subject: "Loading screen: nudge the bar up + live NN% counter over it" },
+  { hash: "971ea53", date: "2026-07-30", subject: "Loading screen: use the painted SplashArt; suppress overlay logo; populate the baked bar" },
+  { hash: "2943945", date: "2026-07-30", subject: "patchnotes: regenerate commits.js" },
   { hash: "8df8eb0", date: "2026-07-30", subject: "Move Kenney cannon from boot splash to the home preview; patchnotes loading-screen image" },
   { hash: "0dbdaab", date: "2026-07-30", subject: "Splash: scale the Kenney cannon down + move it to a foreground hero spot" },
   { hash: "1545d05", date: "2026-07-30", subject: "Add Kenney Pirate Kit (CC0 props) + wire one cannon into the boot splash to test" },

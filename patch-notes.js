@@ -17,6 +17,19 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.20",
+    date: "2026-08-02",
+    title: "Home Port Facelift",
+    notes: [
+      { tag: "Improved", text: "The home screen is now a proper pirate harbour. Your captain stands flanked by a pair of cannons, with palms, a flag and a pirate ship anchored in the background." },
+      { tag: "Improved", text: "The captain portrait sits a touch lower so you can see head and shoulders, not just the face." },
+      { tag: "Improved", text: "Tidied the bottom navigation: the SKINS and LEVELS tabs swapped places, and the gold tab highlight now lines up cleanly inside its trim." },
+    ],
+    images: [
+      { src: "homescreen6.PNG", caption: "The new home harbour" },
+    ],
+  },
+  {
     version: "0.9.19",
     date: "2026-07-28",
     title: "A Fresh Coat of Paint",
