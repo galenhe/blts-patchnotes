@@ -1,5 +1,11 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "0b88146", date: "2026-08-02", subject: "Regenerate scene + assets: new skins, captain name, home cleanup" },
+  { hash: "acf11a4", date: "2026-08-02", subject: "Captain name: player-chosen name in the header + profile, with entry points" },
+  { hash: "190a593", date: "2026-08-02", subject: "Home: remove skin swap arrows + character-model name" },
+  { hash: "1b43b8f", date: "2026-08-02", subject: "Skins: set roster order + retune unlocks (Skeleton free@10, Shark premium)" },
+  { hash: "8ff5c23", date: "2026-08-02", subject: "Skins: portrait cards + boss-clear unlocks (Barbossa/Sharky/Skeleton)" },
+  { hash: "a54992e", date: "2026-08-02", subject: "patchnotes: v0.9.20 — Home Port Facelift" },
   { hash: "f0ae88c", date: "2026-08-02", subject: "Home nav: de-round tab highlights, swap Skins/Levels; import Kenney kit" },
   { hash: "27379e6", date: "2026-08-02", subject: "Home: drop the left palm; pan the header portrait down (show the neck)" },
   { hash: "b47d35f", date: "2026-08-02", subject: "Home showcase: rotate cannon, add symmetric cannon + palms, flag, ship" },

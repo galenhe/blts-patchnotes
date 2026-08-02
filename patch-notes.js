@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.21",
+    date: "2026-08-02",
+    title: "Meet Your Crew",
+    notes: [
+      { tag: "New", text: "New captains to play as — and you earn them by beating bosses! Clear the level-10 boss to unlock the Skeleton, the level-20 boss for Captain Barbossa, and the level-40 boss for Sharky. Beat 'em, then play as 'em." },
+      { tag: "New", text: "A premium captain joins the roster: the Shark — a swimming terror that glides straight through the horde." },
+      { tag: "New", text: "Name your captain! Choose a name when you first set sail, and change it anytime from your profile — tap your portrait, then EDIT." },
+      { tag: "Improved", text: "The Skins screen now shows a real portrait of every character, with locked crew appearing as shadowy silhouettes until you earn them." },
+      { tag: "Improved", text: "Cleaned up the home screen — switching characters now lives on the Skins screen, and the header proudly shows your chosen captain name." },
+    ],
+  },
+  {
     version: "0.9.20",
     date: "2026-08-02",
     title: "Home Port Facelift",
