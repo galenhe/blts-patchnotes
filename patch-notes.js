@@ -25,7 +25,7 @@ window.PATCH_NOTES = [
       { tag: "Improved", text: "The home screen and splash now wear the new PIRATE BLITZ / BROADSIDE wordmark, and the start screen got a proper tap-to-start button." },
     ],
     images: [
-      { src: "loadingscreenupdated1.png", caption: "The new golden-hour loading screen" },
+      { src: "loadingscreenupdated1.jpg", caption: "The new painted loading screen" },
     ],
   },
   {
