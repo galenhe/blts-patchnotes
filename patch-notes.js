@@ -17,6 +17,19 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.22",
+    date: "2026-08-02",
+    title: "Sound the Cannons",
+    notes: [
+      { tag: "New", text: "The game has music! A theme on the home screen, a driving track for your runs, and a separate boss theme that kicks in the moment a boss fight starts." },
+      { tag: "New", text: "Volume sliders for Music and Sound in Settings (and the pause menu) — set them how you like; the game remembers." },
+      { tag: "New", text: "New weapon upgrades in the Armory: CANNONS add extra parallel lines of fire (up to 5), and PROJECTILE SPEED makes your shots travel faster. Your firepower is now bought in the store rather than built up each run." },
+      { tag: "Improved", text: "Every weapon upgrade can be bought AND sold back for a full refund with + / − buttons, plus a RESET ALL button — experiment freely with your build." },
+      { tag: "Improved", text: "Gold feels weightier: coins are worth more when you grab them, with upgrade costs and rewards scaled to match." },
+      { tag: "Improved", text: "Powerups are now unlocked as you progress and equipped two at a time. Missions got a new LIFETIME tab of milestone goals that pay out as you go, and weekly goals are easier to clear." },
+    ],
+  },
+  {
     version: "0.9.21",
     date: "2026-08-02",
     title: "Meet Your Crew",
