@@ -1,5 +1,16 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "ea07b9f", date: "2026-08-04", subject: "Finalize LevelPlay removal + add placeholder biome music" },
+  { hash: "66e3e69", date: "2026-08-04", subject: "Rebalance early game: large-horde survivability wall + stage-1 special tutorial" },
+  { hash: "b8bd670", date: "2026-08-03", subject: "PLAYSTORE: mark keystore/AAB/internal-testing done; add version-code + symbols notes" },
+  { hash: "168defe", date: "2026-08-03", subject: "Version: bump AndroidBundleVersionCode 1 -> 2 (Play rejects reused codes)" },
+  { hash: "3c799be", date: "2026-08-03", subject: "Android: fix launch crash — GameActivity theme (BaseUnityGameActivityTheme)" },
+  { hash: "2bb34df", date: "2026-08-03", subject: "Android graphics: OpenGLES3 only (drop Vulkan) — likely fixes on-launch crash" },
+  { hash: "f378eec", date: "2026-08-03", subject: "Fix obsolete TMP API: enableWordWrapping -> textWrappingMode (clears build warnings)" },
+  { hash: "8403bdc", date: "2026-08-03", subject: "Ads: disable LevelPlay SDK (reversible) — fixes on-launch crash" },
+  { hash: "cf96bfa", date: "2026-08-02", subject: "Build fix: remove obsolete Assets/Plugins/Android/res backup rules" },
+  { hash: "902e273", date: "2026-08-02", subject: "Version: bump bundleVersion to 0.9.22 for the test build" },
+  { hash: "bd142e4", date: "2026-08-02", subject: "patchnotes: v0.9.22 — Sound the Cannons" },
   { hash: "ec41bc8", date: "2026-08-02", subject: "Regenerate assets from wizard re-runs (weapons, powerups, controllers, boot)" },
   { hash: "531eeaa", date: "2026-08-02", subject: "Audio: lower base volumes — music 0.5->0.4, SFX 1.0->0.3 (under the music)" },
   { hash: "16bbfdb", date: "2026-08-02", subject: "Music: reassign tracks — home=homescreenmusic2, run=ingamemusic2, boss=ingamemusic1" },

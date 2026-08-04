@@ -17,6 +17,16 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.23",
+    date: "2026-08-04",
+    title: "Brace for the Horde",
+    notes: [
+      { tag: "New", text: "A HORDE now storms you early in every run — a wall of enemies bearing down across the deck. Weave through the gaps, blast a path, and survive the swarm." },
+      { tag: "New", text: "Learn your SPECIAL on your very first run: when that first horde looms, your screen-clearing blast is charged and ready — tap to wipe the deck clean. From then on you charge it yourself by chaining kills." },
+      { tag: "Balance", text: "The opening stages hit harder and faster for a stronger first impression, and the hordes grow deeper the further you sail." },
+    ],
+  },
+  {
     version: "0.9.22",
     date: "2026-08-02",
     title: "Sound the Cannons",
