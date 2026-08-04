@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "ab23d17", date: "2026-08-04", subject: "Fix release-build music (placeholder tones) + player falling through deck" },
+  { hash: "14c0b9a", date: "2026-08-04", subject: "patchnotes: refresh commits.js" },
   { hash: "b80375a", date: "2026-08-04", subject: "Regen from Setup UI: bake Move Speed upgrade into the Armory catalog" },
   { hash: "3fcbe72", date: "2026-08-04", subject: "Fix gameplay music not starting + consistent framing across phones" },
   { hash: "7fd5641", date: "2026-08-04", subject: "Armory: add Move Speed upgrade (forward run-speed multiplier, up to +50%)" },
