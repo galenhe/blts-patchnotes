@@ -1,5 +1,11 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "b80375a", date: "2026-08-04", subject: "Regen from Setup UI: bake Move Speed upgrade into the Armory catalog" },
+  { hash: "3fcbe72", date: "2026-08-04", subject: "Fix gameplay music not starting + consistent framing across phones" },
+  { hash: "7fd5641", date: "2026-08-04", subject: "Armory: add Move Speed upgrade (forward run-speed multiplier, up to +50%)" },
+  { hash: "d45a16d", date: "2026-08-04", subject: "Balance: shorten early levels (levelLength 220->120 @L1, 636->300 @L10)" },
+  { hash: "7233917", date: "2026-08-04", subject: "patchnotes: add \"Now in Internal Testing!\" milestone summary (v0.9.22, 2026-08-03)" },
+  { hash: "5b636f2", date: "2026-08-04", subject: "patchnotes: v0.9.23 — Brace for the Horde" },
   { hash: "ea07b9f", date: "2026-08-04", subject: "Finalize LevelPlay removal + add placeholder biome music" },
   { hash: "66e3e69", date: "2026-08-04", subject: "Rebalance early game: large-horde survivability wall + stage-1 special tutorial" },
   { hash: "b8bd670", date: "2026-08-03", subject: "PLAYSTORE: mark keystore/AAB/internal-testing done; add version-code + symbols notes" },
