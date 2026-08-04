@@ -23,6 +23,7 @@ window.PATCH_NOTES = [
     notes: [
       { tag: "New", text: "A HORDE now storms you early in every run — a wall of enemies bearing down across the deck. Weave through the gaps, blast a path, and survive the swarm." },
       { tag: "New", text: "Learn your SPECIAL on your very first run: when that first horde looms, your screen-clearing blast is charged and ready — tap to wipe the deck clean. From then on you charge it yourself by chaining kills." },
+      { tag: "New", text: "New Armory upgrade — MOVE SPEED: run forward faster to blitz through levels and reach the bosses sooner (up to +50%)." },
       { tag: "Balance", text: "The opening stages hit harder and faster for a stronger first impression, and the hordes grow deeper the further you sail." },
       { tag: "Balance", text: "Early levels are much shorter now, so you clear stages, reach the first bosses, and start upgrading far faster — straight into the action." },
     ],
