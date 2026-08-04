@@ -28,6 +28,25 @@ window.PATCH_NOTES = [
   },
   {
     version: "0.9.22",
+    date: "2026-08-03",
+    title: "Now in Internal Testing!",
+    notes: [
+      { tag: "New", text: "Pirate Blitz: Broadside is officially on Google Play internal testing! Here's the full tour of what the crew has built so far." },
+      { tag: "New", text: "One-thumb gameplay — your captain runs and fires automatically; you just HOLD & DRAG to steer across the deck, weaving through enemies and aiming your cannon where you go." },
+      { tag: "New", text: "Kill-charged SPECIAL — chain kills to fill your meter, then tap to unleash a screen-clearing blast." },
+      { tag: "New", text: "The Armory — buy permanent weapon upgrades (Cannons for extra lines of fire, Damage, Fire Rate, Projectile Speed), sell them back for full refunds, and reset your whole build to experiment." },
+      { tag: "New", text: "Powerups — Shield, Magnet, Weapon Boost and Special Blast, unlocked as you progress and equipped two at a time." },
+      { tag: "New", text: "100 levels across 10 evolving worlds — from the Pier and Bridge out through Ocean, Storm, Reef, Volcanic, Frozen and Sky, all the way to the Grand Line — each faster, denser and longer than the last." },
+      { tag: "New", text: "Boss battles every 10 levels — rotating pirate bosses in themed arenas, each with an intro and its own health bar." },
+      { tag: "New", text: "A crew to choose from — earn new captains by beating bosses (Skeleton, Captain Barbossa, Sharky), plus a premium Shark, and name your own captain." },
+      { tag: "New", text: "Progress that sticks — bank coins, earn up to 3 stars per level, unlock stages, beat high scores, and level up your Captain rank. Lives regenerate over time." },
+      { tag: "New", text: "Daily, Weekly and Lifetime missions that pay out coins to keep your upgrades in step with the difficulty." },
+      { tag: "New", text: "Full audio — home, gameplay and boss music with Music & Sound volume sliders — and a polished Royal Navy look with a pirate-harbour home screen and guided onboarding for new captains." },
+      { tag: "New", text: "Play anywhere — single-player, offline, no sign-in. Your save lives on your device and backs up to your own Google Drive so you never lose it." },
+    ],
+  },
+  {
+    version: "0.9.22",
     date: "2026-08-02",
     title: "Sound the Cannons",
     notes: [
