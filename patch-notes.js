@@ -28,6 +28,7 @@ window.PATCH_NOTES = [
       { tag: "Balance", text: "The opening stages hit harder and faster for a stronger first impression, and the hordes grow deeper the further you sail." },
       { tag: "Balance", text: "Early levels are much shorter now, so you clear stages, reach the first bosses, and start upgrading far faster — straight into the action." },
       { tag: "Improved", text: "No more one-shots! You now start each run with 3 HEARTS (shown up top) and flash briefly invincible after a hit, so a single bump won't end your run — a horde costs a heart, not the whole game." },
+      { tag: "Fixed", text: "Steering feels tight again — no more accidental jumps or slides while you drag. Jump and slide now take a deliberate quick up/down swipe." },
       { tag: "Fixed", text: "Music now plays properly in the released game — the real soundtrack plays on the home screen, during runs, and in boss fights (it was falling back to placeholder tones)." },
       { tag: "Fixed", text: "The captain can no longer clip or fall through the deck at speed — the ground is now solid underfoot on every run." },
       { tag: "Improved", text: "The view now frames the same on every phone: the play area stays a consistent width across tall, short, and notched screens, and the on-screen meters line up correctly." },

@@ -1,5 +1,8 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "88f938c", date: "2026-08-05", subject: "Input: stop stray jumps/slides while steering (velocity + vertical-dominant flick)" },
+  { hash: "ab13cd9", date: "2026-08-05", subject: "Fix invincibility blink revealing the placeholder model + Boot AudioListener" },
+  { hash: "db0b6ce", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
   { hash: "4df070d", date: "2026-08-05", subject: "Leniency: hearts + i-frames so a single hit no longer ends the run" },
   { hash: "db9472f", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
   { hash: "2f68495", date: "2026-08-05", subject: "Juice pass: kill/coin/special particle bursts, camera shake, screen flash" },
