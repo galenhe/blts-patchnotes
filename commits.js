@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "4df070d", date: "2026-08-05", subject: "Leniency: hearts + i-frames so a single hit no longer ends the run" },
+  { hash: "db9472f", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
   { hash: "2f68495", date: "2026-08-05", subject: "Juice pass: kill/coin/special particle bursts, camera shake, screen flash" },
   { hash: "46b5ee8", date: "2026-08-04", subject: "Version: bump AndroidBundleVersionCode 3 -> 4 for next Play upload" },
   { hash: "59dd83a", date: "2026-08-04", subject: "patchnotes: refresh commits.js" },
