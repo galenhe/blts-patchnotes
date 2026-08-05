@@ -1,5 +1,8 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "2f68495", date: "2026-08-05", subject: "Juice pass: kill/coin/special particle bursts, camera shake, screen flash" },
+  { hash: "46b5ee8", date: "2026-08-04", subject: "Version: bump AndroidBundleVersionCode 3 -> 4 for next Play upload" },
+  { hash: "59dd83a", date: "2026-08-04", subject: "patchnotes: refresh commits.js" },
   { hash: "ab23d17", date: "2026-08-04", subject: "Fix release-build music (placeholder tones) + player falling through deck" },
   { hash: "14c0b9a", date: "2026-08-04", subject: "patchnotes: refresh commits.js" },
   { hash: "b80375a", date: "2026-08-04", subject: "Regen from Setup UI: bake Move Speed upgrade into the Armory catalog" },
