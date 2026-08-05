@@ -29,7 +29,7 @@ window.PATCH_NOTES = [
       { tag: "Balance", text: "Early levels are much shorter now, so you clear stages, reach the first bosses, and start upgrading far faster — straight into the action." },
       { tag: "Improved", text: "No more one-shots! You now start each run with 3 HEARTS (shown up top) and flash briefly invincible after a hit, so a single bump won't end your run — a horde costs a heart, not the whole game." },
       { tag: "Fixed", text: "Steering feels tight again — no more accidental jumps or slides while you drag. Jump and slide now take a deliberate quick up/down swipe." },
-      { tag: "New", text: "New captains get a proper welcome: a short intro sets your goal on your first voyage, and after you clear stage 1 a quick home-port tour shows you the ropes." },
+      { tag: "New", text: "New captains get a proper welcome: a short intro sets your goal on your first voyage, the first enemy HORDE gives you a heads-up to weave or blast through it, and the screen-clearing SPECIAL is taught on the next wall. After you clear stage 1 a quick home-port tour shows you the ropes." },
       { tag: "New", text: "A checkered FINISH LINE now marks the end of every stage — cross it to claim the win." },
       { tag: "Improved", text: "Quests are clearer: each tab shows a badge with how many rewards are ready to claim, and CLAIM ALL is always there (greyed until there's something to grab)." },
       { tag: "Improved", text: "The results screen counts up with a satisfying tick as your score, coins, and kills tally in." },

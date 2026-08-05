@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "22fd80a", date: "2026-08-05", subject: "Onboarding: dedicated horde tip on 1st wall, special on 2nd; centralize copy in Dialogue" },
+  { hash: "860705a", date: "2026-08-05", subject: "patchnotes: v0.9.23 UI/onboarding batch" },
   { hash: "fb9d3be", date: "2026-08-05", subject: "Onboarding: first-run pirate intro + one-time home-screen tour" },
   { hash: "95a182b", date: "2026-08-05", subject: "UI/juice: quest tab claim badges, always-on Claim All, checkered finish line, score-tick SFX" },
   { hash: "9b06565", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
