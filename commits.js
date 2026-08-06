@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "a40a493", date: "2026-08-05", subject: "Finale: big gate that POURS monsters at you (hold-the-line), halt further back" },
+  { hash: "1ee6396", date: "2026-08-05", subject: "patchnotes: gatekeeper stage finale" },
   { hash: "3f790c5", date: "2026-08-05", subject: "Stage finale: gatekeeper wave at the gate instead of a silent distance cutoff" },
   { hash: "4d3968c", date: "2026-08-05", subject: "Fix finish gate not rendering: give EndZone primitives a URP material" },
   { hash: "1729006", date: "2026-08-05", subject: "Boot: give the START button the home PLAY's idle effects (breathing pulse + float + glow)" },

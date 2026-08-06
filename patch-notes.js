@@ -30,7 +30,7 @@ window.PATCH_NOTES = [
       { tag: "Improved", text: "No more one-shots! You now start each run with 3 HEARTS (shown up top) and flash briefly invincible after a hit, so a single bump won't end your run — a horde costs a heart, not the whole game." },
       { tag: "Fixed", text: "Steering feels tight again — no more accidental jumps or slides while you drag. Jump and slide now take a deliberate quick up/down swipe." },
       { tag: "New", text: "New captains get a proper welcome: a short intro sets your goal on your first voyage, the first enemy HORDE gives you a heads-up to weave or blast through it, and the screen-clearing SPECIAL is taught on the next wall. After you clear stage 1 a quick home-port tour shows you the ropes." },
-      { tag: "New", text: "Stages end with a real climax now: as you near the finish gate the enemies thin out, then a final wave makes its stand to guard the gate — clear it and sprint through to win, instead of the level just ending on the spot." },
+      { tag: "New", text: "Stages end with a real climax now: the hordes thin out, you reach a big finish GATE, and monsters pour out of it straight at you — hold the line and clear them all, then sprint through to win, instead of the level just ending on the spot." },
       { tag: "New", text: "A checkered FINISH LINE now marks the end of every stage — cross it to claim the win." },
       { tag: "New", text: "First launch drops you straight into the action — new captains sail immediately after the splash; every launch after that opens on your home port." },
       { tag: "Improved", text: "The Armory reads at a glance: every weapon upgrade and powerup now has its own icon (triple-cannons, sword, arrows, shield, magnet and more)." },
