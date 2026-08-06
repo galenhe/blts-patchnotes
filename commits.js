@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "d019524", date: "2026-08-05", subject: "Add SQUAWKS the parrot narrator — voices all tips + the menu tour" },
+  { hash: "83ad3a7", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
   { hash: "1bf7483", date: "2026-08-05", subject: "Regen scenes from wizard re-runs: menu-style START button + PLAY button rounding" },
   { hash: "a92011b", date: "2026-08-05", subject: "Enemies steer around each other (local avoidance) so they don't jam or queue single-file" },
   { hash: "1c009a9", date: "2026-08-05", subject: "Runner is faster (1.6->2.2x); revert the shark-boss speed change (wrong target)" },
