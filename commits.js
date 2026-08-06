@@ -1,5 +1,7 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "7855d93", date: "2026-08-05", subject: "Finale: cinematic army-emerge beat before the charge" },
+  { hash: "afb3f73", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
   { hash: "ed69637", date: "2026-08-05", subject: "EndZone: remove the checkered finish line (cheesy) — keep the gate" },
   { hash: "b45c686", date: "2026-08-05", subject: "Finale: shrink the calm band (46->24) so mobs keep coming up to the gate — no dead space" },
   { hash: "e5ed9cd", date: "2026-08-05", subject: "Fix finish gate never spawning on device: EndZone bootstrap was Boot-gated" },
