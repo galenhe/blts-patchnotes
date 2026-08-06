@@ -1,5 +1,13 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "1bf7483", date: "2026-08-05", subject: "Regen scenes from wizard re-runs: menu-style START button + PLAY button rounding" },
+  { hash: "a92011b", date: "2026-08-05", subject: "Enemies steer around each other (local avoidance) so they don't jam or queue single-file" },
+  { hash: "1c009a9", date: "2026-08-05", subject: "Runner is faster (1.6->2.2x); revert the shark-boss speed change (wrong target)" },
+  { hash: "5d65389", date: "2026-08-05", subject: "Shark bosses: swim/animate faster + attacks rush the player faster" },
+  { hash: "4eaf28b", date: "2026-08-05", subject: "Finale: longer emerge beat (slower pour + longer hold) so the army fully comes out" },
+  { hash: "680622e", date: "2026-08-05", subject: "Finale: camera shake the instant the army charges" },
+  { hash: "115dd5b", date: "2026-08-05", subject: "Fix ArmoryScreen spam-buy crash; punch up the gate-emerge camera" },
+  { hash: "48091c5", date: "2026-08-05", subject: "patchnotes: cinematic army emerge" },
   { hash: "7855d93", date: "2026-08-05", subject: "Finale: cinematic army-emerge beat before the charge" },
   { hash: "afb3f73", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
   { hash: "ed69637", date: "2026-08-05", subject: "EndZone: remove the checkered finish line (cheesy) — keep the gate" },
