@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "ed69637", date: "2026-08-05", subject: "EndZone: remove the checkered finish line (cheesy) — keep the gate" },
+  { hash: "b45c686", date: "2026-08-05", subject: "Finale: shrink the calm band (46->24) so mobs keep coming up to the gate — no dead space" },
+  { hash: "e5ed9cd", date: "2026-08-05", subject: "Fix finish gate never spawning on device: EndZone bootstrap was Boot-gated" },
+  { hash: "ec4af18", date: "2026-08-05", subject: "patchnotes: gate pours monsters (hold the line)" },
   { hash: "a40a493", date: "2026-08-05", subject: "Finale: big gate that POURS monsters at you (hold-the-line), halt further back" },
   { hash: "1ee6396", date: "2026-08-05", subject: "patchnotes: gatekeeper stage finale" },
   { hash: "3f790c5", date: "2026-08-05", subject: "Stage finale: gatekeeper wave at the gate instead of a silent distance cutoff" },
