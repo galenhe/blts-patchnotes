@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "1b80442", date: "2026-08-06", subject: "Gate finale: run to a stop, swing the doors open, walk the horde out (no freeze)" },
+  { hash: "f8999b2", date: "2026-08-06", subject: "Spawn mobs from the horizon (in the fog), not mid-track" },
+  { hash: "5b49aa7", date: "2026-08-06", subject: "Denser hordes: wider regular packs with depth + deeper early-run wall" },
+  { hash: "2ea205a", date: "2026-08-06", subject: "patchnotes: 0.9.24 \"Learn the Ropes\" (gate stand, stage-2 special, dimmed tips)" },
   { hash: "ea68b6c", date: "2026-08-06", subject: "Special unlocks on stage 2; add a first-gate-horde cutscene; dim tutorial backdrop" },
   { hash: "07a0ba4", date: "2026-08-06", subject: "Add a RESET CUTSCENES testing button to the home screen (left side)" },
   { hash: "e7a902d", date: "2026-08-05", subject: "Squawks: use the real 4-face art (2x2 sheet), sliced by quadrant" },
