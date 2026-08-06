@@ -1,5 +1,12 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "3f790c5", date: "2026-08-05", subject: "Stage finale: gatekeeper wave at the gate instead of a silent distance cutoff" },
+  { hash: "4d3968c", date: "2026-08-05", subject: "Fix finish gate not rendering: give EndZone primitives a URP material" },
+  { hash: "1729006", date: "2026-08-05", subject: "Boot: give the START button the home PLAY's idle effects (breathing pulse + float + glow)" },
+  { hash: "2e1a46e", date: "2026-08-05", subject: "Boot: START button now matches the home PLAY exactly (glow + gold ui_button + icon + outline)" },
+  { hash: "b9dc345", date: "2026-08-05", subject: "Boot wizard leaves Boot.unity open; PLAY button fills its overlay; fix missing MENU button" },
+  { hash: "89c65bf", date: "2026-08-05", subject: "Boot: restore the good gold TAP TO START button (from ec96022)" },
+  { hash: "eb180dd", date: "2026-08-05", subject: "patchnotes: first-launch, Armory icons, splash polish" },
   { hash: "388436b", date: "2026-08-05", subject: "Boot UI: rounded-left loading bar (fills L->R), remove the CTA background panel" },
   { hash: "aab3522", date: "2026-08-05", subject: "First-launch drops into gameplay + distinct Armory icons per upgrade/powerup" },
   { hash: "a842dd4", date: "2026-08-05", subject: "Regenerate assets from Unity wizard re-run (character portraits + animator controllers)" },
