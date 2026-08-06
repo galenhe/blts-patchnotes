@@ -1,5 +1,10 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "ea68b6c", date: "2026-08-06", subject: "Special unlocks on stage 2; add a first-gate-horde cutscene; dim tutorial backdrop" },
+  { hash: "07a0ba4", date: "2026-08-06", subject: "Add a RESET CUTSCENES testing button to the home screen (left side)" },
+  { hash: "e7a902d", date: "2026-08-05", subject: "Squawks: use the real 4-face art (2x2 sheet), sliced by quadrant" },
+  { hash: "03316e9", date: "2026-08-05", subject: "Squawks: per-line expression portraits (Neutral / Excited / Alarmed)" },
+  { hash: "13a60a1", date: "2026-08-05", subject: "patchnotes: Squawks the parrot narrator" },
   { hash: "d019524", date: "2026-08-05", subject: "Add SQUAWKS the parrot narrator — voices all tips + the menu tour" },
   { hash: "83ad3a7", date: "2026-08-05", subject: "patchnotes: refresh commits.js" },
   { hash: "1bf7483", date: "2026-08-05", subject: "Regen scenes from wizard re-runs: menu-style START button + PLAY button rounding" },

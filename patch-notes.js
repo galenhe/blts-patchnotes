@@ -17,6 +17,16 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.24",
+    date: "2026-08-06",
+    title: "Learn the Ropes",
+    notes: [
+      { tag: "New", text: "Stages now end with a stand at the GATEKEEPERS: the first time an army pours from a finish gate, Squawks calls you to hold the line -- clear every last one to open the gate. The charge holds until you're ready." },
+      { tag: "Balance", text: "Your screen-clearing SPECIAL now unlocks on stage 2, so your very first stage is all about learning to steer and shoot. Its charge meter and its tutorial arrive together, right when the ability does." },
+      { tag: "Improved", text: "Every tip now dims the screen behind it, so when the action pauses to teach you something it reads clearly as a moment to stop and listen." },
+    ],
+  },
+  {
     version: "0.9.23",
     date: "2026-08-04",
     title: "Brace for the Horde",
