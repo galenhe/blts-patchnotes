@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "388436b", date: "2026-08-05", subject: "Boot UI: rounded-left loading bar (fills L->R), remove the CTA background panel" },
+  { hash: "aab3522", date: "2026-08-05", subject: "First-launch drops into gameplay + distinct Armory icons per upgrade/powerup" },
+  { hash: "a842dd4", date: "2026-08-05", subject: "Regenerate assets from Unity wizard re-run (character portraits + animator controllers)" },
+  { hash: "715ea4f", date: "2026-08-05", subject: "patchnotes: horde/special tutorial split" },
   { hash: "22fd80a", date: "2026-08-05", subject: "Onboarding: dedicated horde tip on 1st wall, special on 2nd; centralize copy in Dialogue" },
   { hash: "860705a", date: "2026-08-05", subject: "patchnotes: v0.9.23 UI/onboarding batch" },
   { hash: "fb9d3be", date: "2026-08-05", subject: "Onboarding: first-run pirate intro + one-time home-screen tour" },
