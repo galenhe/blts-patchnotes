@@ -1,5 +1,14 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "5954517", date: "2026-08-07", subject: "patchnotes: 0.9.27 \"Every Captain Fights Different\" (per-boss signature attacks)" },
+  { hash: "c9fe8c6", date: "2026-08-07", subject: "Bosses: Sweep, Charge, TentacleSlam signatures + wire all 10 bosses" },
+  { hash: "23a2b34", date: "2026-08-07", subject: "Bosses: data-driven signature moves layered on the barrage" },
+  { hash: "11492f0", date: "2026-08-07", subject: "Regen from Full Rewire: rebuilt scenes + re-baked portraits + controllers" },
+  { hash: "7ea6324", date: "2026-08-07", subject: "Editor: Full Rewire tool, scene guardrails, neutral portrait bake, boot splash music" },
+  { hash: "4ec9965", date: "2026-08-07", subject: "Boss dialogue is now boss-linked: intro lines live on the BossArchetype (+ 6-10 authored)" },
+  { hash: "eb0a756", date: "2026-08-07", subject: "Pre-build audit: lock Unity orientation to Portrait + fix stale manifest minSdk" },
+  { hash: "64e0e57", date: "2026-08-07", subject: "Bump version for internal testing: 0.9.26 (versionCode 5)" },
+  { hash: "3bd2d92", date: "2026-08-07", subject: "patchnotes: split into 0.9.26 \"Chart Your Course\" (menus, before/after) + 0.9.25 \"Rougher Seas\"" },
   { hash: "f106300", date: "2026-08-07", subject: "patchnotes: 0.9.25 \"Chart Your Course\" (level map, home strip, skins, faster seas)" },
   { hash: "3abcbe6", date: "2026-08-07", subject: "Rename characters: Chloe -> Clover, Syd -> Sid (display names)" },
   { hash: "476d36f", date: "2026-08-07", subject: "Portrait bake: recompute the ambient probe (DynamicGI.UpdateEnvironment) after neutralizing" },

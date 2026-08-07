@@ -17,6 +17,20 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.27",
+    date: "2026-08-07",
+    title: "Every Captain Fights Different",
+    notes: [
+      { tag: "New", text: "Bosses now have SIGNATURE ATTACKS -- a devastating move all their own, layered on top of their cannon barrage, so no two boss fights feel the same." },
+      { tag: "New", text: "The Captain unleashes a BROADSIDE: a wall of fire across every lane but one -- spot the gap and thread it." },
+      { tag: "New", text: "The Mako HUNTS you: a tight volley streaks straight at wherever you're standing, so keep moving or get caught flat-footed." },
+      { tag: "New", text: "The Reaper SWEEPS the deck: a rolling wave of fire crosses the arena one lane at a time -- stay just behind it." },
+      { tag: "New", text: "Sharky CHARGES: a single fat, fast torpedo comes tearing down your lane -- clear out of its path." },
+      { tag: "New", text: "The Brute and the Kraken SLAM: several heavy strikes crash down across the deck at once -- read the safe gaps between them." },
+      { tag: "Balance", text: "Elite bosses on the deeper cycles fire their signature move more often -- the further you sail, the meaner they get." },
+    ],
+  },
+  {
     version: "0.9.26",
     date: "2026-08-07",
     title: "Chart Your Course",
