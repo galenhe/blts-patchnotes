@@ -1,5 +1,6 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "f106300", date: "2026-08-07", subject: "patchnotes: 0.9.25 \"Chart Your Course\" (level map, home strip, skins, faster seas)" },
   { hash: "3abcbe6", date: "2026-08-07", subject: "Rename characters: Chloe -> Clover, Syd -> Sid (display names)" },
   { hash: "476d36f", date: "2026-08-07", subject: "Portrait bake: recompute the ambient probe (DynamicGI.UpdateEnvironment) after neutralizing" },
   { hash: "35f2c8b", date: "2026-08-07", subject: "Consolidate testing tools into one \"FOR TESTING PURPOSES\" panel" },

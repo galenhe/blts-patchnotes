@@ -17,7 +17,7 @@
 
 window.PATCH_NOTES = [
   {
-    version: "0.9.25",
+    version: "0.9.26",
     date: "2026-08-07",
     title: "Chart Your Course",
     notes: [
@@ -27,12 +27,23 @@ window.PATCH_NOTES = [
       { tag: "New", text: "Earn the SHARK by playing! It now unlocks once you've collected 75 total stars, instead of being a purchase." },
       { tag: "Improved", text: "The ARMORY now shows your gold right on the screen and lights up with a red dot the moment you can afford an upgrade -- so you always know when it's worth a visit." },
       { tag: "Improved", text: "Meet CLOVER and SID -- your two starting captains have fresh names." },
-      { tag: "Balance", text: "The seas feel more alive: enemies now sail in from the horizon instead of popping in ahead of you, the hordes are thicker, and both you and the enemies move a little faster for a snappier pace." },
-      { tag: "Fixed", text: "The 'horde incoming' warning now arrives before the wall reaches you, not after it's already crashed over the deck." },
     ],
     images: [
-      { src: "levelselect3.PNG", caption: "The new level map -- world by world" },
-      { src: "homescreen7.PNG",  caption: "Home: your progress trail + Clover & Sid" },
+      { src: "levelselect2.PNG", caption: "Level select -- before" },
+      { src: "levelselect3.PNG", caption: "Level select -- after: painted worlds you climb" },
+      { src: "homescreen6.PNG",  caption: "Home -- before" },
+      { src: "homescreen7.PNG",  caption: "Home -- after: your progress trail" },
+    ],
+  },
+  {
+    version: "0.9.25",
+    date: "2026-08-07",
+    title: "Rougher Seas",
+    notes: [
+      { tag: "Balance", text: "Enemies now sail in from the HORIZON instead of popping into view ahead of you -- you'll spot the swarm coming across the water and have time to read it." },
+      { tag: "Balance", text: "The hordes are thicker: wider packs with more depth, and a beefier wall bearing down early in each run." },
+      { tag: "Balance", text: "Snappier pace all round -- both your captain and the enemies move a little faster, so runs feel quicker and more urgent." },
+      { tag: "Fixed", text: "The 'horde incoming' warning now arrives before the wall reaches you, not after it's already crashed over the deck." },
     ],
   },
   {
