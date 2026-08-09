@@ -1,5 +1,18 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "999a082", date: "2026-08-09", subject: "patchnotes: 0.9.29 \"Command Your Fleet\" (shipyard upgrades + skins/shop revamp)" },
+  { hash: "a18dacc", date: "2026-08-09", subject: "Skins: make locked chains discrete + asymmetric" },
+  { hash: "0360474", date: "2026-08-09", subject: "Skins: redesign locked chains — diagonal, tube-shaded metal links" },
+  { hash: "067f762", date: "2026-08-09", subject: "Skins: chain + tint overlay on locked cards" },
+  { hash: "100144c", date: "2026-08-09", subject: "Skins: fix NRE — remove wizard GridLayoutGroup before adding VerticalLayoutGroup" },
+  { hash: "95b7607", date: "2026-08-09", subject: "Skins: fix section overlap; reorder + add bundle and currency packs" },
+  { hash: "aa868ae", date: "2026-08-09", subject: "Skins: split into CAPTAINS and SHIPS sections" },
+  { hash: "8a84ce1", date: "2026-08-09", subject: "Ship upgrades phase 3: Skins revamp — popup preview + ship cosmetics" },
+  { hash: "46bfb6c", date: "2026-08-09", subject: "Regen Game.unity: Shipyard page + restructured nav (Setup UI)" },
+  { hash: "791963b", date: "2026-08-09", subject: "Ship upgrades phase 2: Shipyard page + nav restructure" },
+  { hash: "ab2ea97", date: "2026-08-09", subject: "Ship upgrades phase 1: tiered ship-upgrade model + ships read it" },
+  { hash: "b03d8c7", date: "2026-08-09", subject: "Tutorial: teach the jump; gate obstacles to stage 2" },
+  { hash: "8b1c77b", date: "2026-08-09", subject: "patchnotes: regenerate commits.js" },
   { hash: "5eabd16", date: "2026-08-09", subject: "patchnotes: 0.9.28 \"Your Fleet Joins the Fight\" (escort ships + obstacles)" },
   { hash: "53105c9", date: "2026-08-09", subject: "Camera: zoom the run view out a little to frame the escort ships" },
   { hash: "5e2462f", date: "2026-08-09", subject: "Player: swipe-down mid-air fast-falls; escort SideOffset -> 5.5" },

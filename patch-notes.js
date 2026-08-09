@@ -17,6 +17,19 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.29",
+    date: "2026-08-09",
+    title: "Command Your Fleet",
+    notes: [
+      { tag: "New", text: "The SHIPYARD is open! Upgrade your escort fleet -- more CANNONS, DAMAGE, FIRE RATE and SHOT SPEED, three levels each. Max them all and pay for a FULL SHIP UPGRADE to sail a bigger, meaner hull: Sloop -> Frigate -> Galleon." },
+      { tag: "New", text: "A new SHIP tab joins the bottom bar. The nav's been tidied too -- the PLAY button now doubles as HOME, bringing you back from any screen." },
+      { tag: "Improved", text: "The SKINS screen is reorganised into clear sections: a featured bundle up top, then SHIPS, then CAPTAINS, then coin and star packs." },
+      { tag: "Improved", text: "Tap the info icon on any captain to see them previewed LIVE in a popup with their unlock details -- and the roster fits more per row now." },
+      { tag: "New", text: "Ship cosmetics are on the horizon -- browse the first placeholder liveries in the new SHIPS section." },
+      { tag: "Improved", text: "Anything still locked is now clearly marked with chains and a padlock, so it's obvious what's left to earn." },
+    ],
+  },
+  {
     version: "0.9.28",
     date: "2026-08-09",
     title: "Your Fleet Joins the Fight",
