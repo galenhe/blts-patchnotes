@@ -17,6 +17,23 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.28",
+    date: "2026-08-09",
+    title: "Your Fleet Joins the Fight",
+    notes: [
+      { tag: "New", text: "You now sail with an ESCORT FLEET -- two warships flanking the track that lock onto the nearest monsters and blast them for you, each picking its own target so together they clear the horde. Your job shifts from shooting to SURVIVING." },
+      { tag: "New", text: "Obstacles on the run! Chest-high crates to JUMP or weave around, and cracked gaps splitting the whole deck that you MUST leap. Standing still is no longer safe." },
+      { tag: "New", text: "Swipe DOWN in mid-air to drop back to the deck fast -- cut a jump short and re-land the instant you've cleared a hazard." },
+      { tag: "Changed", text: "Your captain no longer auto-fires -- the fleet is your firepower now. Upgrade the ships in the Armory (more cannons, damage, fire rate) to clear tougher hordes; your tap SPECIAL still unleashes the full-screen map-wipe." },
+      { tag: "Improved", text: "Your special now charges from the fleet's cannon HITS, so upgrading the ships' fire rate fills your special faster too." },
+      { tag: "Improved", text: "The seas now stretch to the horizon on both sides of the track, and the camera sits back a touch so your escort ships stay in frame." },
+    ],
+    images: [
+      { src: "gameplay3.PNG", caption: "Your escort fleet clearing the horde" },
+      { src: "gameplay4.PNG", caption: "Jump the crates and leap the deck gaps" },
+    ],
+  },
+  {
     version: "0.9.27",
     date: "2026-08-07",
     title: "Every Captain Fights Different",

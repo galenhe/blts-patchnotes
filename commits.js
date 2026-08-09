@@ -1,5 +1,16 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "5eabd16", date: "2026-08-09", subject: "patchnotes: 0.9.28 \"Your Fleet Joins the Fight\" (escort ships + obstacles)" },
+  { hash: "53105c9", date: "2026-08-09", subject: "Camera: zoom the run view out a little to frame the escort ships" },
+  { hash: "5e2462f", date: "2026-08-09", subject: "Player: swipe-down mid-air fast-falls; escort SideOffset -> 5.5" },
+  { hash: "f440ca7", date: "2026-08-09", subject: "Escort ships: SideOffset 8 -> 6.5" },
+  { hash: "00fd1c0", date: "2026-08-09", subject: "Obstacles: streaming jump-hazards (crates + lane cracks)" },
+  { hash: "e1378a3", date: "2026-08-08", subject: "Regen biome tiles: full-width side water (Build Track Biomes)" },
+  { hash: "0c10c1e", date: "2026-08-08", subject: "Widen side water to the horizon; nudge escort ships out" },
+  { hash: "9ab6a38", date: "2026-08-08", subject: "Escort ships: sail a straight course, independent of player strafe" },
+  { hash: "128d352", date: "2026-08-08", subject: "Escort fleet: bench the player gun; move ships forward into frame" },
+  { hash: "6dfcb03", date: "2026-08-08", subject: "Escort fleet: two flanking ships that auto-clear the horde (phase 1)" },
+  { hash: "56ad73a", date: "2026-08-07", subject: "patchnotes: regenerate commits.js" },
   { hash: "5954517", date: "2026-08-07", subject: "patchnotes: 0.9.27 \"Every Captain Fights Different\" (per-boss signature attacks)" },
   { hash: "c9fe8c6", date: "2026-08-07", subject: "Bosses: Sweep, Charge, TentacleSlam signatures + wire all 10 bosses" },
   { hash: "23a2b34", date: "2026-08-07", subject: "Bosses: data-driven signature moves layered on the barrage" },
