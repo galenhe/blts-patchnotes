@@ -1,5 +1,17 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "a6a64a3", date: "2026-08-10", subject: "patchnotes: 0.9.30 \"Sharper Broadsides\" (ship models, target leading, fixes)" },
+  { hash: "c7f60c8", date: "2026-08-10", subject: "CLAUDE.md: refresh codebase snapshot (107 scripts, ~21.6k lines)" },
+  { hash: "7a0e969", date: "2026-08-10", subject: "Add baked escort ship prefabs (Wire Escort Ships output)" },
+  { hash: "2c04493", date: "2026-08-10", subject: "Obstacles: cracked-floorboards pitfall instead of a black bar" },
+  { hash: "d06b8d3", date: "2026-08-10", subject: "Fleet + obstacles: fix not-showing on restart (state-driven deploy)" },
+  { hash: "08f6f94", date: "2026-08-10", subject: "Enemies: stop jamming + levitating (no enemy-enemy collision; zero Y velocity)" },
+  { hash: "bbb0a8e", date: "2026-08-10", subject: "Escort ships: lead the target so shots actually hit" },
+  { hash: "090f4be", date: "2026-08-10", subject: "Ship upgrades: steeper cannon ramp (cap 6) + higher fire rate" },
+  { hash: "c1b464b", date: "2026-08-09", subject: "Shipyard: add RESET STATS and RESET TO SLOOP buttons (with refunds)" },
+  { hash: "7f83815", date: "2026-08-09", subject: "Escort ships: turn left ship 90 left, right ship 90 right" },
+  { hash: "01ae6f1", date: "2026-08-09", subject: "Escort ships: wire in the Kenney tier models (procedural cube benched)" },
+  { hash: "01dbcb1", date: "2026-08-09", subject: "patchnotes: regenerate commits.js" },
   { hash: "999a082", date: "2026-08-09", subject: "patchnotes: 0.9.29 \"Command Your Fleet\" (shipyard upgrades + skins/shop revamp)" },
   { hash: "a18dacc", date: "2026-08-09", subject: "Skins: make locked chains discrete + asymmetric" },
   { hash: "0360474", date: "2026-08-09", subject: "Skins: redesign locked chains — diagonal, tube-shaded metal links" },

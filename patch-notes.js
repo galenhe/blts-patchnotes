@@ -17,6 +17,20 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.30",
+    date: "2026-08-10",
+    title: "Sharper Broadsides",
+    notes: [
+      { tag: "New", text: "Your escort ships now sail proper pirate HULLS that grow as you upgrade -- a nimble Sloop, a sturdy Frigate, then a mighty Galleon." },
+      { tag: "Improved", text: "The fleet's aim is far sharper -- the cannons now LEAD their targets, so broadsides actually connect with the rushing horde instead of trailing behind it." },
+      { tag: "Improved", text: "More firepower: cannons climb higher (up to six a ship) and fire faster at the top end." },
+      { tag: "New", text: "Second thoughts? RESET your fleet's stats, or scrap all the way back to the Sloop -- fully refunded -- right from the Shipyard." },
+      { tag: "Improved", text: "Deck pitfalls now look like cracked, splintered floorboards instead of a flat gap -- leap the broken planks!" },
+      { tag: "Fixed", text: "Monsters no longer jam into a pile-up or drift off the deck in dense hordes." },
+      { tag: "Fixed", text: "Your fleet (and the deck obstacles) now reappear properly after a restart." },
+    ],
+  },
+  {
     version: "0.9.29",
     date: "2026-08-09",
     title: "Command Your Fleet",
