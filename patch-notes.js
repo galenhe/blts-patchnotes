@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.31",
+    date: "2026-08-10",
+    title: "Duck and Weave",
+    notes: [
+      { tag: "New", text: "A new deck hazard: knocked-over MASTS lie across your path -- swipe DOWN to SLIDE under them. Jump the gaps, slide the masts, weave the crates!" },
+      { tag: "Improved", text: "Your fleet now SPREADS its fire -- each cannon picks a different target, so buying more cannons clears more of the horde at once instead of piling onto one poor soul." },
+      { tag: "Improved", text: "Deck hazards now take on the look of each biome's floor -- weathered planks, sand, ice, dark volcanic rock and more." },
+      { tag: "Balance", text: "The RUNNER -- the fast, sharky mob -- now rushes you harder. Keep an eye on the ones that slip past the fleet." },
+      { tag: "Fixed", text: "Pitfalls now show clearly on every biome and from your very first run (some were hard to spot before)." },
+    ],
+  },
+  {
     version: "0.9.30",
     date: "2026-08-10",
     title: "Sharper Broadsides",

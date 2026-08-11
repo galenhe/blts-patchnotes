@@ -1,5 +1,12 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "c45e6f4", date: "2026-08-11", subject: "patchnotes: 0.9.31 \"Duck and Weave\" (slide masts, spread fire, biome tint, fixes)" },
+  { hash: "f6b7761", date: "2026-08-11", subject: "Obstacles: place on the exact deck top (fixes invisible first-run pitfall)" },
+  { hash: "38bf3a0", date: "2026-08-11", subject: "Obstacles: keep the pitfall visible on dark biomes" },
+  { hash: "3696728", date: "2026-08-11", subject: "Enemies: Runner (the fast \"shark\" mob) faster — x2.2 -> x3.2" },
+  { hash: "9a027d6", date: "2026-08-11", subject: "Escort ships: spread fire — each cannon targets a different mob" },
+  { hash: "f311fa1", date: "2026-08-11", subject: "Obstacles: slide-under mast hazard + per-biome tint" },
+  { hash: "4aeef7d", date: "2026-08-10", subject: "patchnotes: regenerate commits.js" },
   { hash: "a6a64a3", date: "2026-08-10", subject: "patchnotes: 0.9.30 \"Sharper Broadsides\" (ship models, target leading, fixes)" },
   { hash: "c7f60c8", date: "2026-08-10", subject: "CLAUDE.md: refresh codebase snapshot (107 scripts, ~21.6k lines)" },
   { hash: "7a0e969", date: "2026-08-10", subject: "Add baked escort ship prefabs (Wire Escort Ships output)" },
