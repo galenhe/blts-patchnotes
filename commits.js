@@ -1,5 +1,13 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "6814724", date: "2026-08-12", subject: "patchnotes: 0.9.32 \"Slide & Strike\" (slide teach tip + special scales with fleet)" },
+  { hash: "9e250b0", date: "2026-08-12", subject: "Ads: enable LevelPlay + Google UMP SDKs; configure AdsManager" },
+  { hash: "5370ffd", date: "2026-08-11", subject: "MONETIZATION.md: pin the Data-safety answers (on pause until ad/account build)" },
+  { hash: "7dcefbb", date: "2026-08-11", subject: "Privacy policy: disclose rewarded ads + optional Google Play Games sign-in" },
+  { hash: "d672d1f", date: "2026-08-11", subject: "Ads: add Google UMP consent provider (inert until ads ship)" },
+  { hash: "e76f7a7", date: "2026-08-11", subject: "Obstacles: real crate + mast models (procedural boxes benched)" },
+  { hash: "04cb739", date: "2026-08-11", subject: "Slide tutorial + special scales with the fleet" },
+  { hash: "4cc8b91", date: "2026-08-11", subject: "patchnotes: regenerate commits.js" },
   { hash: "c45e6f4", date: "2026-08-11", subject: "patchnotes: 0.9.31 \"Duck and Weave\" (slide masts, spread fire, biome tint, fixes)" },
   { hash: "f6b7761", date: "2026-08-11", subject: "Obstacles: place on the exact deck top (fixes invisible first-run pitfall)" },
   { hash: "38bf3a0", date: "2026-08-11", subject: "Obstacles: keep the pitfall visible on dark biomes" },

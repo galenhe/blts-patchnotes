@@ -17,6 +17,15 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.32",
+    date: "2026-08-12",
+    title: "Slide & Strike",
+    notes: [
+      { tag: "Improved", text: "A quick tip now teaches you to swipe DOWN to SLIDE under a fallen mast the first time one blocks your path." },
+      { tag: "Improved", text: "Your screen-clearing SPECIAL now grows with your fleet -- upgrade your ship's damage and the map-wipe hits harder too." },
+    ],
+  },
+  {
     version: "0.9.31",
     date: "2026-08-10",
     title: "Duck and Weave",
