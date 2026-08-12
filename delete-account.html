@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pirate Blitz — Account &amp; Data Deletion</title>
+<style>
+  :root {
+    --bg:       #0a0e17;
+    --bg2:      #121826;
+    --card:     #161d2e;
+    --line:     #243047;
+    --text:     #e7edf7;
+    --muted:    #8a98b3;
+    --gold:     #ffd23f;
+    --improved: #3a93ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    background: radial-gradient(1200px 600px at 50% -200px, #1a2238, var(--bg)) fixed;
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 48px 20px 80px; }
+  header { text-align: center; margin-bottom: 36px; }
+  header .badge {
+    display: inline-block; font-weight: 700; letter-spacing: 2px; font-size: 13px;
+    color: var(--gold); border: 1px solid var(--line); border-radius: 999px;
+    padding: 6px 14px; margin-bottom: 16px; text-transform: uppercase;
+  }
+  header h1 { margin: 0; font-size: 38px; letter-spacing: 0.5px; }
+  header p { color: var(--muted); margin: 8px 0 0; }
+
+  .card {
+    background: linear-gradient(180deg, var(--card), var(--bg2));
+    border: 1px solid var(--line); border-radius: 16px;
+    padding: 8px 28px 24px; margin-bottom: 20px;
+  }
+  h2 { font-size: 20px; margin: 26px 0 6px; }
+  h2:first-of-type { margin-top: 18px; }
+  p, li { color: var(--text); }
+  .muted { color: var(--muted); }
+  ul, ol { padding-left: 20px; }
+  li { margin: 6px 0; }
+  a { color: var(--improved); }
+  code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 13px;
+    background: rgba(255,255,255,.05); padding: 1px 6px; border-radius: 6px; }
+  .email {
+    display: inline-block; margin: 6px 0 2px; font-weight: 700; font-size: 17px;
+  }
+  footer { text-align: center; color: var(--muted); font-size: 13px; margin-top: 36px; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="badge">Account &amp; Data Deletion</div>
+      <h1>Pirate Blitz</h1>
+      <p class="muted">Last updated 12 August 2026</p>
+    </header>
+
+    <div class="card">
+      <h2>Overview</h2>
+      <p>
+        Pirate Blitz: Broadside (the &ldquo;Game&rdquo;, package <code>com.blts.broadside</code>) is a
+        single-player mobile game. You can play the entire Game <strong>without an account</strong>. The
+        only account the Game can use is an <strong>optional Google Play Games sign-in</strong>, which saves
+        your progress to your own Google account. <strong>We do not operate our own servers or user
+        database</strong> &mdash; we do not hold a profile about you. This page explains how to delete your
+        game account and its associated data.
+      </p>
+
+      <h2>What data is associated with your account</h2>
+      <p>
+        The only data tied to a Google Play Games sign-in is your <strong>game progress</strong> (coin
+        balance, unlocked levels, stars, high scores, selected character, upgrades and settings) and Play
+        Games <strong>achievements</strong>. This is game data only &mdash; it does not identify you
+        personally. It is stored on your device and, if you sign in, in your own Google account (Google Play
+        Saved Games) and Android&rsquo;s automatic backup to your Google Drive.
+      </p>
+
+      <h2>Delete your account and data yourself (fastest)</h2>
+      <ol>
+        <li>
+          <strong>Sign out in the Game.</strong> Open <strong>Settings</strong> in the Game and sign out of
+          Google Play Games to disconnect it from your Google account.
+        </li>
+        <li>
+          <strong>Delete your cloud save.</strong> Open the <strong>Google Play Games</strong> app &rarr;
+          <em>Settings</em> &rarr; <em>Delete Play Games account &amp; data</em>, and choose to delete the
+          saved data for <em>Pirate Blitz</em> (or delete all Play Games data). This removes your cloud
+          save and achievements for the Game held in your Google account.
+        </li>
+        <li>
+          <strong>Delete on-device data.</strong> <strong>Uninstall</strong> the Game (or, in Android
+          <em>Settings &rarr; Apps &rarr; Pirate Blitz &rarr; Storage</em>, choose <em>Clear data</em>) to
+          remove the local save from your device.
+        </li>
+        <li>
+          <strong>Remove the Google Drive backup.</strong> Android may keep an automatic backup of the
+          Game&rsquo;s data in your own Google Drive. You can delete it in your device&rsquo;s
+          <em>Settings &rarr; Google &rarr; Backup</em> (or in the Google One / Drive app under app
+          backups).
+        </li>
+      </ol>
+      <p class="muted">
+        Because this data lives in <strong>your own Google account and on your device</strong>, the steps
+        above delete it directly and immediately &mdash; nothing about it is held on our side.
+      </p>
+
+      <h2>Request deletion by email</h2>
+      <p>
+        If you would like us to help, or to confirm that no data about you remains, email us and we will
+        action any deletion within our control and respond within <strong>30 days</strong>:
+      </p>
+      <p>
+        <a class="email" href="mailto:blts.tech.ai@gmail.com?subject=Delete%20my%20Pirate%20Blitz%20account%20and%20data">blts.tech.ai@gmail.com</a><br />
+        <span class="muted">Subject: &ldquo;Delete my Pirate Blitz account and data&rdquo;</span>
+      </p>
+
+      <h2>What is deleted, and what we keep</h2>
+      <p>
+        Following the steps above deletes your game progress, cloud save and achievements. We keep
+        <strong>no personal account data</strong> ourselves, so there is nothing further for us to retain
+        about you. Rewarded ads shown in the Game are served by third-party advertising partners under
+        <a href="./privacy.html">our Privacy Policy</a>; any advertising data they hold is governed by their
+        own policies, and you can change or withdraw ad consent at any time from
+        <strong>Privacy Settings</strong> in the Game.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions about deleting your data? Email
+        <a href="mailto:blts.tech.ai@gmail.com">blts.tech.ai@gmail.com</a>.
+      </p>
+    </div>
+
+    <footer>
+      <p><a href="./privacy.html">Privacy Policy</a> &nbsp;&middot;&nbsp; <a href="./index.html">Pirate Blitz patch notes</a></p>
+    </footer>
+  </div>
+</body>
+</html>
