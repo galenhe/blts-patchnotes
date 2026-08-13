@@ -17,6 +17,16 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.33",
+    date: "2026-08-12",
+    title: "Cloud Save Ahoy",
+    notes: [
+      { tag: "New", text: "Sign in with GOOGLE PLAY GAMES to back your voyage up to the cloud -- your coins, stages, stars and upgrades follow you to a new phone and survive a reinstall. Tap CONNECT CLOUD SAVE in Settings." },
+      { tag: "New", text: "Progress now syncs automatically after every stage you clear, so you never lose ground." },
+      { tag: "Improved", text: "Settings tidied up -- a new OTHER page tucks away the Privacy Policy and account-deletion links, with cloud sign-in right on the main card." },
+    ],
+  },
+  {
     version: "0.9.32",
     date: "2026-08-12",
     title: "Slide & Strike",
