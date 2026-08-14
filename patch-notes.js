@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.34",
+    date: "2026-08-14",
+    title: "Spin, Weave & Reward",
+    notes: [
+      { tag: "New", text: "FREE DAILY SPIN -- a ship's wheel sits top-left of home; give it a spin once a day for coins, lives or stars. Awk!" },
+      { tag: "New", text: "New deck hazards to read: stacked BARRELS to weave around, and fallen MASTS laid DIAGONALLY -- jump the low end or slide under the raised end." },
+      { tag: "New", text: "Your HEARTS now show down the LEFT side during a run, so you can see your lives at a glance." },
+      { tag: "Improved", text: "Rewards feel earned -- the coins AND stars from a run now fly up into your totals on the clear screen, and claimed mission coins arc into your coin stack." },
+      { tag: "Improved", text: "Clearing a stage brings you back to port, so you can spend your loot and pick your next voyage." },
+    ],
+  },
+  {
     version: "0.9.33",
     date: "2026-08-12",
     title: "Cloud Save Ahoy",
