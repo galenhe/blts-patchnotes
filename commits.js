@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "ae4c8bb", date: "2026-08-15", subject: "Menu tour: split SKINS / LEVELS into two spotlighted cards" },
+  { hash: "2b879fa", date: "2026-08-14", subject: "Menu tour: spotlight the referenced item (dim + ring + tapping finger)" },
+  { hash: "3766bf5", date: "2026-08-14", subject: "Story: Kraken -> L3 intro boss, Barbossa -> L10; Squawks intro sequence + boss beats" },
+  { hash: "25aa8b2", date: "2026-08-14", subject: "Patch notes 0.9.34 — Spin, Weave & Reward" },
   { hash: "af7a33b", date: "2026-08-14", subject: "Bake obstacle models: Barrel (+ Crate, SlideMast) prefabs from Wire Obstacle Models" },
   { hash: "46eb1c4", date: "2026-08-14", subject: "Crack facelift (#1): torn deck over churning sea" },
   { hash: "9b1e662", date: "2026-08-14", subject: "Missions: fly claimed coins into the top-bar coin stack" },

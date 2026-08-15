@@ -17,6 +17,16 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.35",
+    date: "2026-08-15",
+    title: "Meet Squawks",
+    notes: [
+      { tag: "New", text: "Say hello to SQUAWKS -- yer parrot first mate now introduces himself and the voyage the moment ye set sail. Awk!" },
+      { tag: "New", text: "The bosses have moved in: the KRAKEN is yer first real fight at stage 3, and Captain BARBOSSA rules stage 10 -- each with their own dialogue as ye clash." },
+      { tag: "Improved", text: "The home-port tour now points right at what it's talking about -- a ring and a tapping finger highlight each menu button (PLAY, ARMORY, SKINS, LEVELS, QUESTS) as Squawks explains it." },
+    ],
+  },
+  {
     version: "0.9.34",
     date: "2026-08-14",
     title: "Spin, Weave & Reward",
