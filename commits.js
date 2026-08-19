@@ -1,5 +1,12 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "dfe0627", date: "2026-08-19", subject: "Home beach comes alive: campfire, churning water, crew hanging out" },
+  { hash: "1c83b94", date: "2026-08-16", subject: "Home beach: wide overhead diorama dressed with Kenney props" },
+  { hash: "01f62b1", date: "2026-08-16", subject: "Home area: interactable beach hub with clickable ship -> Shipyard" },
+  { hash: "4ad83e5", date: "2026-08-16", subject: "asmdef: split Assets/Scripts into BLTS.Game + BLTS.Game.Editor assemblies" },
+  { hash: "c0c9b25", date: "2026-08-15", subject: "CLAUDE.md: mark the unguarded-warnings + OnClose/SetLayerRecursive debt resolved" },
+  { hash: "5ab98de", date: "2026-08-15", subject: "Tech debt: fold UI dupes into UiUtil; strip runtime Debug diagnostics" },
+  { hash: "af9d07a", date: "2026-08-15", subject: "Patch notes 0.9.35 — Meet Squawks (narrator intro, boss reschedule, tour spotlights)" },
   { hash: "ae4c8bb", date: "2026-08-15", subject: "Menu tour: split SKINS / LEVELS into two spotlighted cards" },
   { hash: "2b879fa", date: "2026-08-14", subject: "Menu tour: spotlight the referenced item (dim + ring + tapping finger)" },
   { hash: "3766bf5", date: "2026-08-14", subject: "Story: Kraken -> L3 intro boss, Barbossa -> L10; Squawks intro sequence + boss beats" },

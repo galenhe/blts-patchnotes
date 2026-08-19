@@ -17,6 +17,17 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.36",
+    date: "2026-08-19",
+    title: "Shore Leave",
+    notes: [
+      { tag: "New", text: "Yer home port is a living beach now -- the whole crew hangs out around a crackling campfire while the tide rolls in. Awk!" },
+      { tag: "New", text: "Every character ye've unlocked comes ashore and does their own thing: heroes stroll and lounge by the palms, the Captain keeps a lookout over the ship, the sharks drill by the cannons, and the Skeleton shambles about." },
+      { tag: "New", text: "Tap yer SHIP moored at the dock to sail straight to the Shipyard -- she's parked right there flying yer current hull." },
+      { tag: "Improved", text: "The beach got a proper glow-up: real palms, treasure, a jetty and watchtower, rolling textured surf, and a warm flickering firelight." },
+    ],
+  },
+  {
     version: "0.9.35",
     date: "2026-08-15",
     title: "Meet Squawks",
