@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "52c6f64", date: "2026-08-20", subject: "Ship deck upgrade UI + home crew polish" },
+  { hash: "04eb043", date: "2026-08-20", subject: "Boot CTA/loading-bar facelift + on-ship upgrade deck (WIP)" },
+  { hash: "69b3391", date: "2026-08-19", subject: "Bump version to 0.9.36 (code 6) for the next Play build" },
+  { hash: "0ad2c6f", date: "2026-08-19", subject: "Patch notes 0.9.36 — Shore Leave (living home beach + crew)" },
   { hash: "dfe0627", date: "2026-08-19", subject: "Home beach comes alive: campfire, churning water, crew hanging out" },
   { hash: "1c83b94", date: "2026-08-16", subject: "Home beach: wide overhead diorama dressed with Kenney props" },
   { hash: "01f62b1", date: "2026-08-16", subject: "Home area: interactable beach hub with clickable ship -> Shipyard" },

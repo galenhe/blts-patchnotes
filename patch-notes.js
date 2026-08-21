@@ -17,6 +17,21 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.37",
+    date: "2026-08-20",
+    title: "Man the Deck",
+    notes: [
+      { tag: "New", text: "Board yer SHIP right from home port -- tap her at the dock and the view sails over to the deck, where ye upgrade her four parts (cannons, damage, fire rate, shot speed) on a proper deck panel. Awk!" },
+      { tag: "New", text: "Yer ship SHOWS her power now -- buy more cannons and more guns appear on deck; the cannonball pile, powder barrels and pennants all grow as ye upgrade." },
+      { tag: "New", text: "Yer whole crew hangs out at home port between voyages -- the lads pace the sand, drill by the cannons, keep a lookout over the ship, and wander the beach round the fire." },
+      { tag: "Improved", text: "TAP TO START now stretches full-width across the splash, and the loading bar fills clean edge-to-edge." },
+    ],
+    images: [
+      { src: "homescreen8.PNG",  caption: "The crew hangs out at home port" },
+      { src: "shipupgrade1.PNG", caption: "Upgrade yer ship on deck" },
+    ],
+  },
+  {
     version: "0.9.36",
     date: "2026-08-19",
     title: "Shore Leave",
