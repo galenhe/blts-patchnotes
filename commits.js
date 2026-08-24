@@ -1,5 +1,8 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "fbbc0c4", date: "2026-08-23", subject: "Loot dopamine + Skins & Level Select facelift" },
+  { hash: "be6a61b", date: "2026-08-21", subject: "Regenerate character animator controllers (Wire Player Characters re-run)" },
+  { hash: "21240b6", date: "2026-08-20", subject: "Patch notes 0.9.37 — Man the Deck (ship deck UI + home crew), new screenshots" },
   { hash: "52c6f64", date: "2026-08-20", subject: "Ship deck upgrade UI + home crew polish" },
   { hash: "04eb043", date: "2026-08-20", subject: "Boot CTA/loading-bar facelift + on-ship upgrade deck (WIP)" },
   { hash: "69b3391", date: "2026-08-19", subject: "Bump version to 0.9.36 (code 6) for the next Play build" },

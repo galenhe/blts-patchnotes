@@ -17,6 +17,19 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.38",
+    date: "2026-08-23",
+    title: "Gold & Glory",
+    notes: [
+      { tag: "New", text: "Every scallywag ye cut down now SPILLS GOLD on the deck -- run yer ship over the coins to snatch 'em up, so wade into the thick of it for yer plunder. Awk!" },
+      { tag: "New", text: "Sink a BOSS and she bursts wide open in a fountain of treasure -- a guaranteed hoard ye can't miss." },
+      { tag: "Improved", text: "The level map is a proper voyage now -- a smooth winding trail of islands climbs each region, dotted with treasure chests, and cleared regions fold away into a trophy showing the beast ye slew there." },
+      { tag: "Improved", text: "Every region's backdrop got painted proper -- a lighthouse pier, stone bridge, coral reef, smoking volcano, frozen aurora, floating sky isles and a lurkin' sea serpent, all with real depth and light." },
+      { tag: "New", text: "Meet yer captains up close -- tap one in the Skins hold to see 'em in 3D on a fancy card, equip 'em right there, and earn a NEW CAPTAIN fanfare the moment ye unlock a fresh one." },
+      { tag: "Balance", text: "The track no longer sprinkles free coins underfoot -- yer gold comes from the crews ye sink now." },
+    ],
+  },
+  {
     version: "0.9.37",
     date: "2026-08-20",
     title: "Man the Deck",
