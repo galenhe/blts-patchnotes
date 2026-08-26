@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "0fb111e", date: "2026-08-26", subject: "Stage-1 obstacles + denser early/finale + fleet cutscene hold-fire; v0.9.39 (code 8)" },
+  { hash: "a16d8ed", date: "2026-08-25", subject: "CLAUDE.md: record version 0.9.38 / versionCode 7 for the next AAB" },
+  { hash: "7148d4e", date: "2026-08-25", subject: "Bump version to 0.9.38 (versionCode 7) for the next AAB upload" },
+  { hash: "d598c75", date: "2026-08-23", subject: "Patch notes 0.9.38 — Gold & Glory (kill-drop coins, level map + biome art, Skins panel)" },
   { hash: "fbbc0c4", date: "2026-08-23", subject: "Loot dopamine + Skins & Level Select facelift" },
   { hash: "be6a61b", date: "2026-08-21", subject: "Regenerate character animator controllers (Wire Player Characters re-run)" },
   { hash: "21240b6", date: "2026-08-20", subject: "Patch notes 0.9.37 — Man the Deck (ship deck UI + home crew), new screenshots" },

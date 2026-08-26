@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.39",
+    date: "2026-08-26",
+    title: "Rough Seas",
+    notes: [
+      { tag: "New", text: "Trouble on deck from the very first voyage now - CRATES to JUMP and gaps to leap from stage 1. Squawks teaches ye the swipe-up the moment the first one rolls in. Awk!" },
+      { tag: "Balance", text: "The opening stages pack more of a punch - tighter waves and a few more beasties, so ye're never just coastin'." },
+      { tag: "New", text: "The end-of-stage GATE STANDS are a proper siege now - the doors heave open and a FAR bigger army comes pourin' out. Brace yerself, Cap'n!" },
+      { tag: "Improved", text: "Yer fleet holds its fire during the gate reveal - the horde spills out untouched, the camera swings back, and THEN yer cannons let loose. Blaaast!" },
+      { tag: "Improved", text: "Squawks got a fresh script - clearer orders that match what's actually happenin' on deck, from steerin' and jumpin' to scoopin' up the gold yer kills spill." },
+    ],
+  },
+  {
     version: "0.9.38",
     date: "2026-08-23",
     title: "Gold & Glory",
