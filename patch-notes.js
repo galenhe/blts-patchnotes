@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.40",
+    date: "2026-08-30",
+    title: "Deep Waters",
+    notes: [
+      { tag: "Improved", text: "The whole ship's been repainted in DEEP SEA NAVY - richer darks, warmer gold, every hold and menu in matchin' colors. Easy on the eyes, heavy on the swagger. Awk!" },
+      { tag: "Improved", text: "The Skins hold got a proper refit - captains sorted by RARITY with framed cards, a fancy pop-up to size 'em up in 3D, and a fanfare when ye land a fresh one." },
+      { tag: "Improved", text: "The voyage map sails smoother - every region winds its own shape now (no two trails alike), and the REAL beast ye slayed glowers in the background of each region." },
+      { tag: "New", text: "THE GOLDEN BUNDLE has washed ashore - the fearsome SHARK captain and a gilded ship together for one plunderin' price. A limited haul for them that wants the best." },
+      { tag: "Fixed", text: "Patched a fistful o' leaks below deck - steadier framin' on the home beach and cleaner menus all round." },
+    ],
+  },
+  {
     version: "0.9.39",
     date: "2026-08-26",
     title: "Rough Seas",
