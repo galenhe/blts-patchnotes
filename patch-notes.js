@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.41",
+    date: "2026-08-31",
+    title: "Charting the Port",
+    notes: [
+      { tag: "Improved", text: "The bottom deck got reorganised, Cap'n - QUESTS is a proper button on the bar now, and the old Armory made way for a fresh SHOP. Everything's got its place. Awk!" },
+      { tag: "Improved", text: "Yer POWERUPS moved aboard the ship - tap yer vessel and manage yer loadout right there on the deck where it belongs." },
+      { tag: "Improved", text: "The voyage map got a proper paint job - each region's now a grand card with its number, its dread BOSS glarin' out, and yer progress front and centre. The island trails zig and zag cleaner too." },
+      { tag: "Improved", text: "The Shipyard tells ye straight what yer buildin' toward - 'UPGRADE SHIP: FRIGATE' - so ye know exactly what all that part-upgradin' unlocks. Squawk!" },
+      { tag: "Fixed", text: "Hauled a certain toothy crewmate up OUT of the sand where he'd got stuck, eased the camera back when ye visit yer ship, and tidied a few buttons that were crowdin' the deck." },
+    ],
+  },
+  {
     version: "0.9.40",
     date: "2026-08-30",
     title: "Deep Waters",

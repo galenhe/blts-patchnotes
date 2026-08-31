@@ -1,5 +1,9 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "7a23975", date: "2026-08-31", subject: "Patch notes 0.9.41 Charting the Port" },
+  { hash: "e8f7b18", date: "2026-08-31", subject: "Home nav restructure + level-map facelift + home/shipyard polish" },
+  { hash: "c2ee4be", date: "2026-08-30", subject: "Docs: IAP code-complete + define/products in place, only device-proof left" },
+  { hash: "4035b0d", date: "2026-08-30", subject: "Regenerate commits.js for 0.9.40" },
   { hash: "c6ef9e3", date: "2026-08-30", subject: "Patch notes 0.9.40 Deep Waters" },
   { hash: "f082090", date: "2026-08-30", subject: "Bump to 0.9.40 (versionCode 12) for the next AAB" },
   { hash: "6f9d69b", date: "2026-08-30", subject: "Level Select bosses: large centre-background boss in the open panel (colour if beaten, shadowed silhouette if not); shadow-out uncleared bosses in the minimized strip too" },
