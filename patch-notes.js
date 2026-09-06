@@ -18,7 +18,7 @@
 window.PATCH_NOTES = [
   {
     version: "0.9.42",
-    date: "2026-09-03",
+    date: "2026-09-06",
     title: "Old Foes, New Teeth",
     notes: [
       { tag: "New", text: "Every beast ye sank comes back MEANER. The five brutes from the early waters return in the deep as somethin' worse -- and they remember ye. They taunt ye on the way in and curse ye on the way down. Awk!" },
