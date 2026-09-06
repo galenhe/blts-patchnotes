@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.42",
+    date: "2026-09-03",
+    title: "Old Foes, New Teeth",
+    notes: [
+      { tag: "New", text: "Every beast ye sank comes back MEANER. The five brutes from the early waters return in the deep as somethin' worse -- and they remember ye. They taunt ye on the way in and curse ye on the way down. Awk!" },
+      { tag: "New", text: "Each boss now fights its OWN way -- a cannon broadside, a hunter's volley, a reaper's sweep, a shark's charge, an overhead slam -- and the Megalodon CALLS IN a shiver of fast sharks to swarm ye. Squawk!" },
+      { tag: "Improved", text: "The ships in the shop are REAL now -- proper 3D hulls on the cards, and tap one to spin it about with yer finger and admire the riggin'. No more 'comin' soon' either." },
+      { tag: "Improved", text: "The shop got tidied into proper stalls -- ALL, BUNDLES, SHIPS, CAPTAINS and GOLD -- with yer purse pinned up top so ye always know what ye can afford." },
+      { tag: "Fixed", text: "Hauled the shark up out o' the sand where he'd been swimmin' through solid ground, and taught the crew to actually MOVE their feet instead of slidin' about like they're on ice. Awk!" },
+    ],
+  },
+  {
     version: "0.9.41",
     date: "2026-08-31",
     title: "Charting the Port",
