@@ -17,6 +17,19 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.43",
+    date: "2026-09-13",
+    title: "Colours of the Fleet",
+    notes: [
+      { tag: "New", text: "Paint yer ships, Cap'n! SHIP DESIGNS are a proper collection now -- Crimson Raider, Ghost Galleon, Emerald Corsair and the dread Midnight Kraken. Earn 'em with stars or buy 'em outright, then equip whichever ye fancy from yer collection. Awk!" },
+      { tag: "New", text: "A design is PAINT, not a new hull -- whatever ship ye've earned in the Shipyard wears the colours ye pick. Upgrade yer vessel and yer favourite paint comes right along with it." },
+      { tag: "Balance", text: "Yer escort fleet was firin' like it were short-handed. Fresh crews now carry TWICE the cannon and hit twice as hard from the off, and the broadsides come quicker -- the openin' waters won't swamp ye any more. Veterans, fear not: a fully-fitted Galleon is exactly as fearsome as she ever was. Squawk!" },
+      { tag: "Improved", text: "Ye can finally SEE the captains ye've not earned yet -- their faces on the cards and their full figure in the window, 'stead of a black shadow. Know who yer sailin' toward." },
+      { tag: "Fixed", text: "Tidied the decks on tall spyglasses: the BACK button no longer drifts into the middle o' the wares, yer gold stopped sittin' on top o' the SHOP sign, and the headin's clear o' the mast at last." },
+      { tag: "Fixed", text: "The SHIP button on the bottom deck got its ship at last, the FEATURED BUNDLE got a proper gold sign over it, and the first ten isles on the Pier stopped bunchin' up atop one another. Awk!" },
+    ],
+  },
+  {
     version: "0.9.42",
     date: "2026-09-06",
     title: "Old Foes, New Teeth",
