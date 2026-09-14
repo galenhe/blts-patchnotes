@@ -1,5 +1,17 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "96633fc", date: "2026-09-13", subject: "Bump to 0.9.44 + patch notes 'Through the Gate'" },
+  { hash: "31808f0", date: "2026-09-13", subject: "Regenerate Game.unity (Setup UI under Unity 6.6)" },
+  { hash: "caddc48", date: "2026-09-13", subject: "TrackFlow: breathe the lane in and out so a run reads as a journey" },
+  { hash: "f49c4e5", date: "2026-09-13", subject: "Make the gate a doorway to the next biome, not a wall at the end" },
+  { hash: "fee14b8", date: "2026-09-13", subject: "Remove the eyes in the gate tunnel" },
+  { hash: "296b895", date: "2026-09-13", subject: "Give the gate an interior you can actually see into" },
+  { hash: "064d4d5", date: "2026-09-13", subject: "Fix level-clear header overlap, ship-deck defaults, and the daily-spin exploit" },
+  { hash: "744b003", date: "2026-09-13", subject: "Rebuild the finish gate: depth, ramparts, ornament, and biome skins" },
+  { hash: "340401e", date: "2026-09-13", subject: "Lengthen stages 1-5 so the opening reads as a real level" },
+  { hash: "3c9e7c4", date: "2026-09-13", subject: "IAP: consumable path verified too -- repeat purchase + coin persistence" },
+  { hash: "96faf70", date: "2026-09-13", subject: "IAP is device-verified: mark the longest-standing blocker cleared" },
+  { hash: "916fd87", date: "2026-09-13", subject: "Regenerate patch-notes commit history" },
   { hash: "b4b611b", date: "2026-09-13", subject: "Bump to 0.9.43 + patch notes 'Colours of the Fleet'" },
   { hash: "697bcfd", date: "2026-09-13", subject: "Unity 6.6 re-serialization of upgrade/powerup assets" },
   { hash: "7a283a6", date: "2026-09-13", subject: "Buff early fleet firepower; leave the endgame ceiling untouched" },

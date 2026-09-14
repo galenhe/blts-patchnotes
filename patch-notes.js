@@ -17,6 +17,22 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.44",
+    date: "2026-09-13",
+    title: "Through the Gate",
+    notes: [
+      { tag: "New", text: "The finish gate be a proper FORTRESS now -- stone towers with iron bandin', braziers burnin' atop 'em, skulls on spikes watchin' ye come, and walls runnin' off both sides so there's no sailin' round it. Awk!" },
+      { tag: "New", text: "And when them doors swing open ye can SEE INSIDE -- a dark passage runnin' back with embers glowin' in the deep. That's where the gate-keepers been waitin' for ye all along. Squawk!" },
+      { tag: "New", text: "Look proper through that openin' and ye'll spy the NEXT waters beyond -- the sky, the shore, the shape of what's comin'. The sea even changes colour as ye near the gate. Every stage runs into the next now, Cap'n." },
+      { tag: "New", text: "Every gate wears its own waters -- slate an' cold blue fire in the storm, glowin' coral on the reef, black basalt an' lava in the volcano, ice, cloud, and somethin' purple an' gold out on the Grand Line." },
+      { tag: "Improved", text: "The route breathes now. The deck narrows to a plank ye must thread -- yer escorts tuckin' in tight beside ye -- then opens onto a broad dock with room to swing. No more runnin' a straight corridor the whole way." },
+      { tag: "Improved", text: "The first five stages run a fair bit longer, so they feel like proper voyages 'stead of bein' over afore ye've found yer sea legs." },
+      { tag: "Fixed", text: "Tidied the STAGE CLEAR board -- yer gold and yer stars were sat atop the headin' and the star row. Everythin' has its own berth now." },
+      { tag: "Fixed", text: "The Shipyard opens with yer ship's papers already spread out, and the clutter o' buttons on the hull be gone -- the panel does it all." },
+      { tag: "Fixed", text: "The daily wheel were lettin' ye spin it over and over. She's one spin a day again, as the good Lord and the Cap'n intended. Awk!" },
+    ],
+  },
+  {
     version: "0.9.43",
     date: "2026-09-13",
     title: "Colours of the Fleet",
