@@ -17,6 +17,17 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.45",
+    date: "2026-10-17",
+    title: "Second Wind",
+    notes: [
+      { tag: "New", text: "The great beasts FIGHT BACK now, Cap'n. Hurt one bad enough and it changes its ways mid-battle -- quicker broadsides, fuller volleys, and a roar to warn ye it's comin'. No more learnin' one rhythm and ridin' it to the end. Awk!" },
+      { tag: "New", text: "Them that came back from the deep be the worst of it. Drive an elite down past a third and it ABANDONS its old trick for a new one -- the Dread Captain whistles up his crew, the Ancient Kraken sweeps the whole deck, the Blood Mako comes at ye like a torpedo, the Soul Reaper hunts ye where ye stand, and the Megalodon stops callin' for help and just bites. Squawk!" },
+      { tag: "Fixed", text: "Yer ship's colours! Ye'd pick a fine new paint in the shop and the ship moored at home never heard about it, and yer escorts sailed out still wearin' the old coat. Both wear what ye picked now -- at home, in the Shipyard, and out on the water." },
+      { tag: "Fixed", text: "And yer paint follows yer vessel up through every size o' hull now, sloop to galleon, 'stead o' washin' off when ye traded up. Awk!" },
+    ],
+  },
+  {
     version: "0.9.44",
     date: "2026-09-13",
     title: "Through the Gate",

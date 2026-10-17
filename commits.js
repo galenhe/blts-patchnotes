@@ -1,5 +1,11 @@
 // Auto-generated from: git log. To refresh, re-run the command in README.md.
 window.COMMITS = [
+  { hash: "1d6e6e2", date: "2026-10-17", subject: "Game.unity: re-serialised by Unity, plus three RectTransforms snapped to x: 0" },
+  { hash: "c1fa49e", date: "2026-10-17", subject: "Fix: the in-run escort fleet kept the OLD livery after equipping a new one" },
+  { hash: "def90cf", date: "2026-10-17", subject: "Fix: the moored home ship ignored the equipped ship livery" },
+  { hash: "3b87357", date: "2026-10-17", subject: "Bosses: data-driven multi-phase fights, authored on all 10" },
+  { hash: "deb8706", date: "2026-10-17", subject: "Gate all dev tooling behind one BLTS_DEV flag, and re-sync CLAUDE.md with the code" },
+  { hash: "16f7e7a", date: "2026-09-13", subject: "Regenerate patch-notes commit history" },
   { hash: "96633fc", date: "2026-09-13", subject: "Bump to 0.9.44 + patch notes 'Through the Gate'" },
   { hash: "31808f0", date: "2026-09-13", subject: "Regenerate Game.unity (Setup UI under Unity 6.6)" },
   { hash: "caddc48", date: "2026-09-13", subject: "TrackFlow: breathe the lane in and out so a run reads as a journey" },
