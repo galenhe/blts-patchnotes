@@ -17,6 +17,18 @@
 
 window.PATCH_NOTES = [
   {
+    version: "0.9.46",
+    date: "2026-10-17",
+    title: "Know Your Crew",
+    notes: [
+      { tag: "Improved", text: "Tap a captain in the SHOP and ye get a proper look at 'em at last -- just the one soul, stood in their own lantern-light. Afore this ye were shown the whole beach with every hand ye'd ever signed millin' about in the background. Awk!" },
+      { tag: "New", text: "DRAG to spin 'em round, same as ye do yer ships. Have a good look at the cut o' their coat afore ye hand 'em the helm. Squawk!" },
+      { tag: "Fixed", text: "The Shark's portrait were a flat wall o' blue with one fin pokin' out -- the painter had set up his easel INSIDE the beast. He's stood back now, and the whole creature sits proud on the card like the rest o' the crew." },
+      { tag: "Improved", text: "Tidied the captain's card from top to bottom: the rarity tag no longer looks like a button beggin' to be pressed, their name's stopped sittin' on their boots, and EQUIP and CLOSE line up proper with even spacin'." },
+      { tag: "Fixed", text: "That same card used to hang over the bottom deck o' buttons on taller spyglasses. She clears 'em on every screen now, Cap'n." },
+    ],
+  },
+  {
     version: "0.9.45",
     date: "2026-10-17",
     title: "Second Wind",
